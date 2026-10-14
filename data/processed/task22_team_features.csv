@@ -1,0 +1,209 @@
+match_id,date,split,team,opponent,goals,team_pre_gf,team_pre_ga,team_pre_win_rate,team_pre_clean_sheet_rate,opponent_pre_gf,opponent_pre_ga,opponent_pre_win_rate,opponent_pre_clean_sheet_rate
+M001,2026-06-11,train,Mexico,South Africa,2,1.8,0.4,0.6,0.6,0.8,1.0,0.2,0.4
+M001,2026-06-11,train,South Africa,Mexico,0,0.8,1.0,0.2,0.4,1.8,0.4,0.6,0.6
+M002,2026-06-12,train,Canada,Bosnia & Herzegovina,1,1.4,0.6,0.4,0.6,0.8,0.8,0.0,0.2
+M002,2026-06-12,train,Bosnia & Herzegovina,Canada,1,0.8,0.8,0.0,0.2,1.4,0.6,0.4,0.6
+M003,2026-06-12,train,South Korea,Czech Republic,2,1.4,1.0,0.6,0.6,3.4,1.2,0.6,0.2
+M003,2026-06-12,train,Czech Republic,South Korea,1,3.4,1.2,0.6,0.2,1.4,1.0,0.6,0.6
+M004,2026-06-13,train,Brazil,Morocco,1,2.6,1.4,0.6,0.0,2.6,0.6,0.6,0.4
+M004,2026-06-13,train,Morocco,Brazil,1,2.6,0.6,0.6,0.4,2.6,1.4,0.6,0.0
+M005,2026-06-13,train,Qatar,Switzerland,1,0.2,1.2,0.0,0.2,1.8,1.4,0.2,0.2
+M005,2026-06-13,train,Switzerland,Qatar,1,1.8,1.4,0.2,0.2,0.2,1.2,0.0,0.2
+M006,2026-06-13,train,USA,Paraguay,4,2.2,2.4,0.4,0.0,1.8,1.0,0.6,0.4
+M006,2026-06-13,train,Paraguay,USA,1,1.8,1.0,0.6,0.4,2.2,2.4,0.4,0.0
+M007,2026-06-14,train,Australia,Turkey,2,1.4,1.2,0.4,0.2,2.0,0.6,0.8,0.6
+M007,2026-06-14,train,Turkey,Australia,0,2.0,0.6,0.8,0.6,1.4,1.2,0.4,0.2
+M008,2026-06-14,train,Germany,Curacao,7,3.6,1.0,1.0,0.4,1.2,2.2,0.2,0.4
+M008,2026-06-14,train,Curacao,Germany,1,1.2,2.2,0.2,0.4,3.6,1.0,1.0,0.4
+M009,2026-06-14,train,Haiti,Scotland,0,1.6,0.8,0.4,0.4,2.4,1.0,0.6,0.2
+M009,2026-06-14,train,Scotland,Haiti,1,2.4,1.0,0.6,0.2,1.6,0.8,0.4,0.4
+M010,2026-06-14,train,Netherlands,Japan,2,1.8,0.8,0.6,0.2,1.6,0.0,1.0,1.0
+M010,2026-06-14,train,Japan,Netherlands,2,1.6,0.0,1.0,1.0,1.8,0.8,0.6,0.2
+M011,2026-06-15,train,Belgium,Egypt,1,4.0,0.6,0.8,0.6,1.2,0.4,0.4,0.8
+M011,2026-06-15,train,Egypt,Belgium,1,1.2,0.4,0.4,0.8,4.0,0.6,0.8,0.6
+M012,2026-06-15,train,Ivory Coast,Ecuador,1,2.4,0.8,0.8,0.6,1.8,0.6,0.6,0.4
+M012,2026-06-15,train,Ecuador,Ivory Coast,0,1.8,0.6,0.6,0.4,2.4,0.8,0.8,0.6
+M013,2026-06-15,train,Saudi Arabia,Uruguay,1,1.0,1.6,0.2,0.4,0.8,1.4,0.2,0.4
+M013,2026-06-15,train,Uruguay,Saudi Arabia,1,0.8,1.4,0.2,0.4,1.0,1.6,0.2,0.4
+M014,2026-06-15,train,Spain,Cape Verde,0,1.8,0.8,0.4,0.4,1.4,1.8,0.2,0.2
+M014,2026-06-15,train,Cape Verde,Spain,0,1.4,1.8,0.2,0.2,1.8,0.8,0.4,0.4
+M015,2026-06-15,train,Sweden,Tunisia,5,2.0,1.8,0.4,0.0,0.4,1.4,0.2,0.4
+M015,2026-06-15,train,Tunisia,Sweden,1,0.4,1.4,0.2,0.4,2.0,1.8,0.4,0.0
+M016,2026-06-16,train,France,Senegal,3,2.4,1.2,0.8,0.0,1.4,1.4,0.4,0.4
+M016,2026-06-16,train,Senegal,France,1,1.4,1.4,0.4,0.4,2.4,1.2,0.8,0.0
+M017,2026-06-16,train,Iran,New Zealand,2,2.2,0.6,0.6,0.6,0.8,2.0,0.2,0.0
+M017,2026-06-16,train,New Zealand,Iran,2,0.8,2.0,0.2,0.0,2.2,0.6,0.6,0.6
+M018,2026-06-16,train,Iraq,Norway,1,0.8,1.0,0.4,0.2,1.8,1.0,0.4,0.2
+M018,2026-06-16,train,Norway,Iraq,4,1.8,1.0,0.4,0.2,0.8,1.0,0.4,0.2
+M019,2026-06-17,train,Argentina,Algeria,3,2.8,0.2,1.0,0.8,2.4,0.4,0.6,0.8
+M019,2026-06-17,train,Algeria,Argentina,0,2.4,0.4,0.6,0.8,2.8,0.2,1.0,0.8
+M020,2026-06-17,train,Austria,Jordan,3,2.0,0.4,0.8,0.6,1.4,2.6,0.0,0.0
+M020,2026-06-17,train,Jordan,Austria,1,1.4,2.6,0.0,0.0,2.0,0.4,0.8,0.6
+M021,2026-06-17,train,England,Croatia,4,1.4,0.4,0.6,0.6,1.6,1.8,0.6,0.0
+M021,2026-06-17,train,Croatia,England,2,1.6,1.8,0.6,0.0,1.4,0.4,0.6,0.6
+M022,2026-06-17,train,Portugal,D.R. Congo,1,3.0,0.6,0.8,0.4,0.8,0.6,0.4,0.6
+M022,2026-06-17,train,D.R. Congo,Portugal,1,0.8,0.6,0.4,0.6,3.0,0.6,0.8,0.4
+M023,2026-06-18,train,Canada,Qatar,6,1.2,0.8,0.2,0.4,0.4,1.2,0.0,0.2
+M023,2026-06-18,train,Qatar,Canada,0,0.4,1.2,0.0,0.2,1.2,0.8,0.2,0.4
+M024,2026-06-18,train,Czech Republic,South Africa,1,2.4,1.6,0.4,0.0,0.6,1.0,0.2,0.4
+M024,2026-06-18,train,South Africa,Czech Republic,1,0.6,1.0,0.2,0.4,2.4,1.6,0.4,0.0
+M025,2026-06-18,train,Ghana,Panama,1,0.6,2.2,0.0,0.0,2.0,2.2,0.4,0.0
+M025,2026-06-18,train,Panama,Ghana,0,2.0,2.2,0.4,0.0,0.6,2.2,0.0,0.0
+M026,2026-06-18,train,Switzerland,Bosnia & Herzegovina,4,1.8,1.4,0.2,0.2,0.8,0.8,0.0,0.2
+M026,2026-06-18,train,Bosnia & Herzegovina,Switzerland,1,0.8,0.8,0.0,0.2,1.8,1.4,0.2,0.2
+M027,2026-06-18,train,Uzbekistan,Colombia,1,1.2,1.4,0.2,0.2,2.0,1.2,0.6,0.4
+M027,2026-06-18,train,Colombia,Uzbekistan,3,2.0,1.2,0.6,0.4,1.2,1.4,0.2,0.2
+M028,2026-06-19,train,Mexico,South Korea,1,2.2,0.4,0.8,0.6,1.6,1.2,0.6,0.4
+M028,2026-06-19,train,South Korea,Mexico,0,1.6,1.2,0.6,0.4,2.2,0.4,0.8,0.6
+M029,2026-06-19,train,Scotland,Morocco,0,1.8,0.6,0.6,0.4,2.6,0.6,0.6,0.4
+M029,2026-06-19,train,Morocco,Scotland,1,2.6,0.6,0.6,0.4,1.8,0.6,0.6,0.4
+M030,2026-06-19,train,USA,Australia,2,2.0,2.4,0.4,0.0,1.8,0.6,0.6,0.4
+M030,2026-06-19,train,Australia,USA,0,1.8,0.6,0.6,0.4,2.0,2.4,0.4,0.0
+M031,2026-06-20,train,Brazil,Haiti,3,2.6,1.4,0.6,0.0,1.2,1.0,0.2,0.2
+M031,2026-06-20,train,Haiti,Brazil,0,1.2,1.0,0.2,0.2,2.6,1.4,0.6,0.0
+M032,2026-06-20,train,Germany,Ivory Coast,2,3.8,1.2,1.0,0.2,2.0,0.8,0.8,0.6
+M032,2026-06-20,train,Ivory Coast,Germany,1,2.0,0.8,0.8,0.6,3.8,1.2,1.0,0.2
+M033,2026-06-20,train,Netherlands,Sweden,5,1.4,1.2,0.4,0.0,2.8,1.8,0.6,0.0
+M033,2026-06-20,train,Sweden,Netherlands,1,2.8,1.8,0.6,0.0,1.4,1.2,0.4,0.0
+M034,2026-06-20,train,Turkey,Paraguay,0,1.6,0.6,0.8,0.6,1.8,1.4,0.6,0.4
+M034,2026-06-20,train,Paraguay,Turkey,1,1.8,1.4,0.6,0.4,1.6,0.6,0.8,0.6
+M035,2026-06-21,train,Belgium,Iran,0,2.8,0.8,0.6,0.4,2.6,1.0,0.6,0.4
+M035,2026-06-21,train,Iran,Belgium,0,2.6,1.0,0.6,0.4,2.8,0.8,0.6,0.4
+M036,2026-06-21,train,Ecuador,Curacao,0,1.4,0.8,0.4,0.2,1.4,3.6,0.2,0.2
+M036,2026-06-21,train,Curacao,Ecuador,0,1.4,3.6,0.2,0.2,1.4,0.8,0.4,0.2
+M037,2026-06-21,train,Spain,Saudi Arabia,4,1.4,0.4,0.4,0.6,1.2,1.0,0.2,0.4
+M037,2026-06-21,train,Saudi Arabia,Spain,0,1.2,1.0,0.2,0.4,1.4,0.4,0.4,0.6
+M038,2026-06-21,train,Tunisia,Japan,0,0.4,2.2,0.2,0.4,1.6,0.4,0.8,0.8
+M038,2026-06-21,train,Japan,Tunisia,4,1.6,0.4,0.8,0.8,0.4,2.2,0.2,0.4
+M039,2026-06-21,train,Uruguay,Cape Verde,2,0.6,1.4,0.0,0.4,1.2,1.6,0.2,0.4
+M039,2026-06-21,train,Cape Verde,Uruguay,2,1.2,1.6,0.2,0.4,0.6,1.4,0.0,0.4
+M040,2026-06-22,train,Argentina,Austria,2,3.0,0.2,1.0,0.8,2.2,0.6,0.8,0.4
+M040,2026-06-22,train,Austria,Argentina,0,2.2,0.6,0.8,0.4,3.0,0.2,1.0,0.8
+M041,2026-06-22,train,France,Iraq,3,2.4,1.2,0.8,0.0,1.0,1.6,0.4,0.2
+M041,2026-06-22,train,Iraq,France,0,1.0,1.6,0.4,0.2,2.4,1.2,0.8,0.0
+M042,2026-06-22,train,New Zealand,Egypt,1,1.2,2.0,0.2,0.0,1.4,0.6,0.4,0.6
+M042,2026-06-22,train,Egypt,New Zealand,3,1.4,0.6,0.4,0.6,1.2,2.0,0.2,0.0
+M043,2026-06-23,train,England,Ghana,0,1.8,0.8,0.6,0.4,0.8,2.0,0.2,0.2
+M043,2026-06-23,train,Ghana,England,0,0.8,2.0,0.2,0.2,1.8,0.8,0.6,0.4
+M044,2026-06-23,train,Jordan,Algeria,1,1.2,2.6,0.0,0.0,2.4,0.6,0.6,0.8
+M044,2026-06-23,train,Algeria,Jordan,2,2.4,0.6,0.6,0.8,1.2,2.6,0.0,0.0
+M045,2026-06-23,train,Norway,Senegal,3,1.8,1.0,0.4,0.2,1.6,1.4,0.4,0.4
+M045,2026-06-23,train,Senegal,Norway,2,1.6,1.4,0.4,0.4,1.8,1.0,0.4,0.2
+M046,2026-06-23,train,Portugal,Uzbekistan,5,1.4,0.6,0.6,0.4,1.0,1.6,0.2,0.2
+M046,2026-06-23,train,Uzbekistan,Portugal,0,1.0,1.6,0.2,0.2,1.4,0.6,0.6,0.4
+M047,2026-06-24,train,Bosnia & Herzegovina,Qatar,3,0.8,1.4,0.0,0.2,0.2,2.2,0.0,0.2
+M047,2026-06-24,train,Qatar,Bosnia & Herzegovina,1,0.2,2.2,0.0,0.2,0.8,1.4,0.0,0.2
+M048,2026-06-24,train,Colombia,D.R. Congo,1,2.0,1.4,0.6,0.2,1.0,0.6,0.4,0.6
+M048,2026-06-24,train,D.R. Congo,Colombia,0,1.0,0.6,0.4,0.6,2.0,1.4,0.6,0.2
+M049,2026-06-24,train,Morocco,Haiti,4,2.4,0.4,0.6,0.6,1.2,1.4,0.2,0.2
+M049,2026-06-24,train,Haiti,Morocco,2,1.2,1.4,0.2,0.2,2.4,0.4,0.6,0.6
+M050,2026-06-24,train,Panama,Croatia,0,1.8,2.2,0.4,0.0,1.4,2.2,0.4,0.0
+M050,2026-06-24,train,Croatia,Panama,1,1.4,2.2,0.4,0.0,1.8,2.2,0.4,0.0
+M051,2026-06-24,train,Scotland,Brazil,0,1.8,0.6,0.6,0.4,3.0,1.0,0.8,0.2
+M051,2026-06-24,train,Brazil,Scotland,3,3.0,1.0,0.8,0.2,1.8,0.6,0.6,0.4
+M052,2026-06-24,train,Switzerland,Canada,2,2.0,0.8,0.4,0.2,2.0,0.4,0.4,0.6
+M052,2026-06-24,train,Canada,Switzerland,1,2.0,0.4,0.4,0.6,2.0,0.8,0.4,0.2
+M053,2026-06-25,train,Curacao,Ivory Coast,0,1.4,3.2,0.2,0.4,1.8,0.6,0.8,0.6
+M053,2026-06-25,train,Ivory Coast,Curacao,2,1.8,0.6,0.8,0.6,1.4,3.2,0.2,0.4
+M054,2026-06-25,train,Czech Republic,Mexico,0,2.2,1.4,0.4,0.0,2.2,0.2,1.0,0.8
+M054,2026-06-25,train,Mexico,Czech Republic,3,2.2,0.2,1.0,0.8,2.2,1.4,0.4,0.0
+M055,2026-06-25,train,Ecuador,Germany,2,1.2,0.6,0.4,0.4,3.4,0.8,1.0,0.2
+M055,2026-06-25,train,Germany,Ecuador,1,3.4,0.8,1.0,0.2,1.2,0.6,0.4,0.4
+M056,2026-06-25,train,South Africa,South Korea,1,0.6,1.0,0.2,0.4,1.6,0.6,0.6,0.4
+M056,2026-06-25,train,South Korea,South Africa,0,1.6,0.6,0.6,0.4,0.6,1.0,0.2,0.4
+M057,2026-06-26,validation,Japan,Sweden,1,1.8,0.4,0.8,0.8,2.4,2.6,0.4,0.0
+M057,2026-06-26,validation,Sweden,Japan,1,2.4,2.6,0.4,0.0,1.8,0.4,0.8,0.8
+M058,2026-06-26,validation,Norway,France,1,2.2,1.0,0.6,0.2,2.6,1.0,0.8,0.2
+M058,2026-06-26,validation,France,Norway,4,2.6,1.0,0.8,0.2,2.2,1.0,0.6,0.2
+M059,2026-06-26,validation,Paraguay,Australia,0,1.6,1.2,0.6,0.6,1.6,1.0,0.4,0.2
+M059,2026-06-26,validation,Australia,Paraguay,0,1.6,1.0,0.4,0.2,1.6,1.2,0.6,0.6
+M060,2026-06-26,validation,Senegal,Iraq,5,1.6,2.0,0.2,0.2,0.6,2.0,0.2,0.2
+M060,2026-06-26,validation,Iraq,Senegal,0,0.6,2.0,0.2,0.2,1.6,2.0,0.2,0.2
+M061,2026-06-26,validation,Tunisia,Netherlands,1,0.2,3.0,0.0,0.2,2.0,1.2,0.4,0.0
+M061,2026-06-26,validation,Netherlands,Tunisia,3,2.0,1.2,0.4,0.0,0.2,3.0,0.0,0.2
+M062,2026-06-26,validation,Turkey,USA,3,1.4,0.8,0.6,0.4,2.0,1.4,0.6,0.2
+M062,2026-06-26,validation,USA,Turkey,2,2.0,1.4,0.6,0.2,1.4,0.8,0.6,0.4
+M063,2026-06-27,validation,Cape Verde,Saudi Arabia,0,1.2,1.2,0.2,0.4,1.0,1.4,0.2,0.4
+M063,2026-06-27,validation,Saudi Arabia,Cape Verde,0,1.0,1.4,0.2,0.4,1.2,1.2,0.2,0.4
+M064,2026-06-27,validation,Croatia,Ghana,2,1.2,2.0,0.4,0.2,0.6,1.0,0.2,0.4
+M064,2026-06-27,validation,Ghana,Croatia,1,0.6,1.0,0.2,0.4,1.2,2.0,0.4,0.2
+M065,2026-06-27,validation,Egypt,Iran,1,1.2,0.8,0.4,0.4,2.4,0.6,0.6,0.6
+M065,2026-06-27,validation,Iran,Egypt,1,2.4,0.6,0.6,0.6,1.2,0.8,0.4,0.4
+M066,2026-06-27,validation,New Zealand,Belgium,1,1.4,2.2,0.2,0.0,1.8,0.4,0.4,0.6
+M066,2026-06-27,validation,Belgium,New Zealand,5,1.8,0.4,0.4,0.6,1.4,2.2,0.2,0.0
+M067,2026-06-27,validation,Panama,England,0,1.4,2.2,0.2,0.0,1.6,0.6,0.6,0.6
+M067,2026-06-27,validation,England,Panama,2,1.6,0.6,0.6,0.6,1.4,2.2,0.2,0.0
+M068,2026-06-27,validation,Uruguay,Spain,0,1.0,1.8,0.0,0.2,1.6,0.4,0.4,0.6
+M068,2026-06-27,validation,Spain,Uruguay,1,1.6,0.4,0.4,0.6,1.0,1.8,0.0,0.2
+M069,2026-06-28,validation,Algeria,Austria,3,1.4,0.8,0.6,0.6,2.0,0.8,0.8,0.4
+M069,2026-06-28,validation,Austria,Algeria,3,2.0,0.8,0.8,0.4,1.4,0.8,0.6,0.6
+M070,2026-06-28,validation,Colombia,Portugal,0,2.0,1.0,0.8,0.4,2.4,0.6,0.8,0.4
+M070,2026-06-28,validation,Portugal,Colombia,0,2.4,0.6,0.8,0.4,2.0,1.0,0.8,0.4
+M071,2026-06-28,validation,D.R. Congo,Uzbekistan,3,0.6,0.8,0.2,0.4,0.4,2.4,0.0,0.2
+M071,2026-06-28,validation,Uzbekistan,D.R. Congo,1,0.4,2.4,0.0,0.2,0.6,0.8,0.2,0.4
+M072,2026-06-28,validation,Jordan,Argentina,1,1.0,2.6,0.0,0.0,3.0,0.0,1.0,1.0
+M072,2026-06-28,validation,Argentina,Jordan,3,3.0,0.0,1.0,1.0,1.0,2.6,0.0,0.0
+M073,2026-06-28,validation,South Africa,Canada,0,0.6,0.6,0.4,0.6,2.2,0.8,0.4,0.4
+M073,2026-06-28,validation,Canada,South Africa,1,2.2,0.8,0.4,0.4,0.6,0.6,0.4,0.6
+M074,2026-06-29,validation,Brazil,Japan,2,3.0,0.8,0.8,0.4,1.8,0.6,0.6,0.6
+M074,2026-06-29,validation,Japan,Brazil,1,1.8,0.6,0.6,0.6,3.0,0.8,0.8,0.4
+M075,2026-06-29,validation,Germany,Paraguay,1,3.2,1.0,0.8,0.2,1.4,1.2,0.4,0.6
+M075,2026-06-29,validation,Paraguay,Germany,1,1.4,1.2,0.4,0.6,3.2,1.0,0.8,0.2
+M076,2026-06-29,validation,Netherlands,Morocco,1,2.4,1.2,0.6,0.0,2.2,0.8,0.6,0.4
+M076,2026-06-29,validation,Morocco,Netherlands,1,2.2,0.8,0.6,0.4,2.4,1.2,0.6,0.0
+M077,2026-06-30,validation,France,Sweden,3,2.8,1.0,0.8,0.2,2.0,2.4,0.2,0.0
+M077,2026-06-30,validation,Sweden,France,0,2.0,2.4,0.2,0.0,2.8,1.0,0.8,0.2
+M078,2026-06-30,validation,Ivory Coast,Norway,1,1.4,0.6,0.8,0.6,2.4,1.8,0.6,0.0
+M078,2026-06-30,validation,Norway,Ivory Coast,2,2.4,1.8,0.6,0.0,1.4,0.6,0.8,0.6
+M079,2026-06-30,validation,Mexico,Ecuador,2,2.4,0.2,1.0,0.8,1.4,0.6,0.6,0.4
+M079,2026-06-30,validation,Ecuador,Mexico,0,1.4,0.6,0.6,0.4,2.4,0.2,1.0,0.8
+M080,2026-07-01,validation,Belgium,Senegal,3,2.6,0.4,0.6,0.6,2.0,1.8,0.2,0.4
+M080,2026-07-01,validation,Senegal,Belgium,2,2.0,1.8,0.2,0.4,2.6,0.4,0.6,0.6
+M081,2026-07-01,validation,England,D.R. Congo,2,2.0,0.4,0.8,0.8,1.0,1.0,0.2,0.2
+M081,2026-07-01,validation,D.R. Congo,England,1,1.0,1.0,0.2,0.2,2.0,0.4,0.8,0.8
+M082,2026-07-01,validation,USA,Bosnia & Herzegovina,2,2.4,1.6,0.6,0.2,1.2,1.4,0.2,0.2
+M082,2026-07-01,validation,Bosnia & Herzegovina,USA,0,1.2,1.4,0.2,0.2,2.4,1.6,0.6,0.2
+M083,2026-07-02,test,Portugal,Croatia,2,2.0,0.6,0.6,0.4,1.4,1.6,0.6,0.2
+M083,2026-07-02,test,Croatia,Portugal,1,1.4,1.6,0.6,0.2,2.0,0.6,0.6,0.4
+M084,2026-07-02,test,Spain,Austria,3,1.8,0.4,0.6,0.6,1.6,1.2,0.6,0.4
+M084,2026-07-02,test,Austria,Spain,0,1.6,1.2,0.6,0.4,1.8,0.4,0.6,0.6
+M085,2026-07-02,test,Switzerland,Algeria,2,2.4,1.0,0.6,0.0,2.0,1.4,0.6,0.4
+M085,2026-07-02,test,Algeria,Switzerland,0,2.0,1.4,0.6,0.4,2.4,1.0,0.6,0.0
+M086,2026-07-03,test,Argentina,Cape Verde,3,2.6,0.2,1.0,0.8,1.0,1.0,0.2,0.6
+M086,2026-07-03,test,Cape Verde,Argentina,2,1.0,1.0,0.2,0.6,2.6,0.2,1.0,0.8
+M087,2026-07-03,test,Australia,Egypt,1,0.6,0.8,0.2,0.4,1.4,1.0,0.4,0.2
+M087,2026-07-03,test,Egypt,Australia,1,1.4,1.0,0.4,0.2,0.6,0.8,0.2,0.4
+M088,2026-07-03,test,Colombia,Ghana,1,1.8,0.4,0.8,0.6,0.6,1.0,0.2,0.4
+M088,2026-07-03,test,Ghana,Colombia,0,0.6,1.0,0.2,0.4,1.8,0.4,0.8,0.6
+M089,2026-07-04,test,Canada,Morocco,0,2.0,0.8,0.4,0.4,1.6,1.0,0.4,0.2
+M089,2026-07-04,test,Morocco,Canada,3,1.6,1.0,0.4,0.2,2.0,0.8,0.4,0.4
+M090,2026-07-04,test,Paraguay,France,0,1.4,1.0,0.4,0.6,3.2,0.6,1.0,0.4
+M090,2026-07-04,test,France,Paraguay,1,3.2,0.6,1.0,0.4,1.4,1.0,0.4,0.6
+M091,2026-07-05,test,Brazil,Norway,1,2.2,0.6,0.8,0.4,2.2,1.8,0.6,0.0
+M091,2026-07-05,test,Norway,Brazil,2,2.2,1.8,0.6,0.0,2.2,0.6,0.8,0.4
+M092,2026-07-05,test,Mexico,England,2,2.6,0.2,1.0,0.8,2.2,0.6,0.8,0.6
+M092,2026-07-05,test,England,Mexico,3,2.2,0.6,0.8,0.6,2.6,0.2,1.0,0.8
+M093,2026-07-06,test,Portugal,Spain,0,2.0,0.6,0.6,0.4,2.2,0.2,0.8,0.8
+M093,2026-07-06,test,Spain,Portugal,1,2.2,0.2,0.8,0.8,2.0,0.6,0.6,0.4
+M094,2026-07-06,test,USA,Belgium,1,2.2,1.2,0.6,0.4,2.8,0.8,0.6,0.4
+M094,2026-07-06,test,Belgium,USA,4,2.8,0.8,0.6,0.4,2.2,1.2,0.6,0.4
+M095,2026-07-07,test,Argentina,Egypt,3,2.8,0.6,1.0,0.6,1.4,1.2,0.2,0.0
+M095,2026-07-07,test,Egypt,Argentina,2,1.4,1.2,0.2,0.0,2.8,0.6,1.0,0.6
+M096,2026-07-07,test,Switzerland,Colombia,0,2.0,0.8,0.6,0.2,1.4,0.2,0.8,0.8
+M096,2026-07-07,test,Colombia,Switzerland,0,1.4,0.2,0.8,0.8,2.0,0.8,0.6,0.2
+M097,2026-07-09,test,France,Morocco,2,2.8,0.4,1.0,0.6,2.0,0.8,0.6,0.4
+M097,2026-07-09,test,Morocco,France,0,2.0,0.8,0.6,0.4,2.8,0.4,1.0,0.6
+M098,2026-07-10,test,Spain,Belgium,2,1.8,0.0,0.8,1.0,2.6,1.0,0.6,0.2
+M098,2026-07-10,test,Belgium,Spain,1,2.6,1.0,0.6,0.2,1.8,0.0,0.8,1.0
+M099,2026-07-11,test,Argentina,Switzerland,3,2.8,1.0,1.0,0.4,1.8,0.6,0.6,0.4
+M099,2026-07-11,test,Switzerland,Argentina,1,1.8,0.6,0.6,0.4,2.8,1.0,1.0,0.4
+M100,2026-07-11,test,Norway,England,1,2.4,1.8,0.8,0.0,2.2,1.0,0.8,0.4
+M100,2026-07-11,test,England,Norway,2,2.2,1.0,0.8,0.4,2.4,1.8,0.8,0.0
+M101,2026-07-14,test,France,Spain,0,2.6,0.2,1.0,0.8,2.2,0.2,1.0,0.8
+M101,2026-07-14,test,Spain,France,2,2.2,0.2,1.0,0.8,2.6,0.2,1.0,0.8
+M102,2026-07-15,test,England,Argentina,1,1.8,0.8,0.8,0.4,2.8,1.2,1.0,0.2
+M102,2026-07-15,test,Argentina,England,2,2.8,1.2,1.0,0.2,1.8,0.8,0.8,0.4
+M103,2026-07-18,test,France,England,4,2.0,0.6,0.8,0.6,2.0,1.2,0.8,0.2
+M103,2026-07-18,test,England,France,6,2.0,1.2,0.8,0.2,2.0,0.6,0.8,0.6
+M104,2026-07-19,test,Spain,Argentina,1,1.8,0.2,1.0,0.8,2.8,1.4,1.0,0.0
+M104,2026-07-19,test,Argentina,Spain,0,2.8,1.4,1.0,0.0,1.8,0.2,1.0,0.8

@@ -1,0 +1,22 @@
+{
+  "matches": 104,
+  "team_rows": 208,
+  "unique_teams": 48,
+  "total_goals": 308,
+  "history_window": 5,
+  "missing_predictor_cells": 0,
+  "imputation_used": false,
+  "history_strictly_earlier": true,
+  "independently_corroborated_scores": 104,
+  "date_offset_counts": {
+    "0": 69,
+    "-1": 35
+  },
+  "matches_by_split": {
+    "train": 56,
+    "validation": 26,
+    "test": 22
+  },
+  "history_caution": "Retrospective snapshot, not an archived pre-kickoff release.",
+  "evaluation_caution": "Later-period evaluation is retrospective and is not treated as untouched external validation."
+}

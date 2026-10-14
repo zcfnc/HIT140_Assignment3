@@ -1,0 +1,1041 @@
+match_id,team,forecast_date,history_order,history_date,history_opponent,gf,ga,source,source_row,history_id
+M001,Mexico,2026-06-11,1,2026-03-28,Portugal,0,0,international_results.csv,49240.0,H49240
+M001,Mexico,2026-06-11,2,2026-03-31,Belgium,1,1,international_results.csv,49292.0,H49292
+M001,Mexico,2026-06-11,3,2026-05-22,Ghana,2,0,international_results.csv,49324.0,H49324
+M001,Mexico,2026-06-11,4,2026-05-30,Australia,1,0,international_results.csv,49336.0,H49336
+M001,Mexico,2026-06-11,5,2026-06-04,Serbia,5,1,international_results.csv,49384.0,H49384
+M001,South Africa,2026-06-11,1,2026-01-04,Cameroon,1,2,international_results.csv,49149.0,H49149
+M001,South Africa,2026-06-11,2,2026-03-27,Panama,1,1,international_results.csv,49213.0,H49213
+M001,South Africa,2026-06-11,3,2026-03-31,Panama,1,2,international_results.csv,49305.0,H49305
+M001,South Africa,2026-06-11,4,2026-05-29,Nicaragua,0,0,international_results.csv,49333.0,H49333
+M001,South Africa,2026-06-11,5,2026-06-06,Jamaica,1,0,international_results.csv,49425.0,H49425
+M002,Canada,2026-06-12,1,2025-11-18,Venezuela,2,0,international_results.csv,49038.0,H49038
+M002,Canada,2026-06-12,2,2026-03-28,Iceland,2,2,international_results.csv,49236.0,H49236
+M002,Canada,2026-06-12,3,2026-03-31,Tunisia,0,0,international_results.csv,49282.0,H49282
+M002,Canada,2026-06-12,4,2026-06-01,Uzbekistan,2,0,international_results.csv,49351.0,H49351
+M002,Canada,2026-06-12,5,2026-06-05,Republic of Ireland,1,1,international_results.csv,49392.0,H49392
+M002,Bosnia & Herzegovina,2026-06-12,1,2025-11-18,Austria,1,1,international_results.csv,49054.0,H49054
+M002,Bosnia & Herzegovina,2026-06-12,2,2026-03-26,Wales,1,1,international_results.csv,49184.0,H49184
+M002,Bosnia & Herzegovina,2026-06-12,3,2026-03-31,Italy,1,1,international_results.csv,49312.0,H49312
+M002,Bosnia & Herzegovina,2026-06-12,4,2026-05-29,North Macedonia,0,0,international_results.csv,49331.0,H49331
+M002,Bosnia & Herzegovina,2026-06-12,5,2026-06-06,Panama,1,1,international_results.csv,49427.0,H49427
+M003,South Korea,2026-06-12,1,2025-11-18,Ghana,1,0,international_results.csv,49044.0,H49044
+M003,South Korea,2026-06-12,2,2026-03-28,Ivory Coast,0,4,international_results.csv,49239.0,H49239
+M003,South Korea,2026-06-12,3,2026-03-31,Austria,0,1,international_results.csv,49278.0,H49278
+M003,South Korea,2026-06-12,4,2026-05-30,Trinidad and Tobago,5,0,international_results.csv,49335.0,H49335
+M003,South Korea,2026-06-12,5,2026-06-03,El Salvador,1,0,international_results.csv,49369.0,H49369
+M003,Czech Republic,2026-06-12,1,2025-11-17,Gibraltar,6,0,international_results.csv,49012.0,H49012
+M003,Czech Republic,2026-06-12,2,2026-03-26,Republic of Ireland,2,2,international_results.csv,49189.0,H49189
+M003,Czech Republic,2026-06-12,3,2026-03-31,Denmark,2,2,international_results.csv,49315.0,H49315
+M003,Czech Republic,2026-06-12,4,2026-05-31,Kosovo,2,1,international_results.csv,49342.0,H49342
+M003,Czech Republic,2026-06-12,5,2026-06-04,Guatemala,5,1,international_results.csv,49381.0,H49381
+M004,Brazil,2026-06-13,1,2025-11-18,Tunisia,1,1,international_results.csv,49037.0,H49037
+M004,Brazil,2026-06-13,2,2026-03-26,France,1,2,international_results.csv,49175.0,H49175
+M004,Brazil,2026-06-13,3,2026-03-31,Croatia,3,1,international_results.csv,49280.0,H49280
+M004,Brazil,2026-06-13,4,2026-05-31,Panama,6,2,international_results.csv,49340.0,H49340
+M004,Brazil,2026-06-13,5,2026-06-06,Egypt,2,1,international_results.csv,49420.0,H49420
+M004,Morocco,2026-06-13,1,2026-03-27,Ecuador,1,1,international_results.csv,49210.0,H49210
+M004,Morocco,2026-06-13,2,2026-03-31,Paraguay,2,1,international_results.csv,49294.0,H49294
+M004,Morocco,2026-06-13,3,2026-05-26,Burundi,5,0,international_results.csv,49325.0,H49325
+M004,Morocco,2026-06-13,4,2026-06-02,Madagascar,4,0,international_results.csv,49360.0,H49360
+M004,Morocco,2026-06-13,5,2026-06-07,Norway,1,1,international_results.csv,49445.0,H49445
+M005,Qatar,2026-06-13,1,2025-12-01,Palestine,0,1,international_results.csv,49080.0,H49080
+M005,Qatar,2026-06-13,2,2025-12-04,Syria,1,1,international_results.csv,49088.0,H49088
+M005,Qatar,2026-06-13,3,2025-12-07,Tunisia,0,3,international_results.csv,49095.0,H49095
+M005,Qatar,2026-06-13,4,2026-05-28,Republic of Ireland,0,1,international_results.csv,49328.0,H49328
+M005,Qatar,2026-06-13,5,2026-06-06,El Salvador,0,0,international_results.csv,49429.0,H49429
+M005,Switzerland,2026-06-13,1,2025-11-18,Kosovo,1,1,international_results.csv,49048.0,H49048
+M005,Switzerland,2026-06-13,2,2026-03-27,Germany,3,4,international_results.csv,49216.0,H49216
+M005,Switzerland,2026-06-13,3,2026-03-31,Norway,0,0,international_results.csv,49297.0,H49297
+M005,Switzerland,2026-06-13,4,2026-05-31,Jordan,4,1,international_results.csv,49346.0,H49346
+M005,Switzerland,2026-06-13,5,2026-06-06,Australia,1,1,international_results.csv,49416.0,H49416
+M006,USA,2026-06-13,1,2025-11-18,Uruguay,5,1,international_results.csv,49046.0,H49046
+M006,USA,2026-06-13,2,2026-03-28,Belgium,2,5,international_results.csv,49244.0,H49244
+M006,USA,2026-06-13,3,2026-03-31,Portugal,0,2,international_results.csv,49308.0,H49308
+M006,USA,2026-06-13,4,2026-05-31,Senegal,3,2,international_results.csv,49347.0,H49347
+M006,USA,2026-06-13,5,2026-06-06,Germany,1,2,international_results.csv,49431.0,H49431
+M006,Paraguay,2026-06-13,1,2025-11-15,USA,1,2,international_results.csv,48973.0,H48973
+M006,Paraguay,2026-06-13,2,2025-11-18,Mexico,2,1,international_results.csv,49045.0,H49045
+M006,Paraguay,2026-06-13,3,2026-03-27,Greece,1,0,international_results.csv,49205.0,H49205
+M006,Paraguay,2026-06-13,4,2026-03-31,Morocco,1,2,international_results.csv,49294.0,H49294
+M006,Paraguay,2026-06-13,5,2026-06-05,Nicaragua,4,0,international_results.csv,49399.0,H49399
+M007,Australia,2026-06-14,1,2025-11-18,Colombia,0,3,international_results.csv,49040.0,H49040
+M007,Australia,2026-06-14,2,2026-03-27,Cameroon,1,0,international_results.csv,49220.0,H49220
+M007,Australia,2026-06-14,3,2026-03-31,Curacao,5,1,international_results.csv,49317.0,H49317
+M007,Australia,2026-06-14,4,2026-05-30,Mexico,0,1,international_results.csv,49336.0,H49336
+M007,Australia,2026-06-14,5,2026-06-06,Switzerland,1,1,international_results.csv,49416.0,H49416
+M007,Turkey,2026-06-14,1,2025-11-18,Spain,2,2,international_results.csv,49052.0,H49052
+M007,Turkey,2026-06-14,2,2026-03-26,Romania,1,0,international_results.csv,49188.0,H49188
+M007,Turkey,2026-06-14,3,2026-03-31,Kosovo,1,0,international_results.csv,49314.0,H49314
+M007,Turkey,2026-06-14,4,2026-06-01,North Macedonia,4,0,international_results.csv,49355.0,H49355
+M007,Turkey,2026-06-14,5,2026-06-06,Venezuela,2,1,international_results.csv,49434.0,H49434
+M008,Germany,2026-06-14,1,2025-11-17,Slovakia,6,0,international_results.csv,49009.0,H49009
+M008,Germany,2026-06-14,2,2026-03-27,Switzerland,4,3,international_results.csv,49216.0,H49216
+M008,Germany,2026-06-14,3,2026-03-30,Ghana,2,1,international_results.csv,49264.0,H49264
+M008,Germany,2026-06-14,4,2026-05-31,Finland,4,0,international_results.csv,49343.0,H49343
+M008,Germany,2026-06-14,5,2026-06-06,USA,2,1,international_results.csv,49431.0,H49431
+M008,Curacao,2026-06-14,1,2025-11-18,Jamaica,0,0,international_results.csv,49064.0,H49064
+M008,Curacao,2026-06-14,2,2026-03-27,China,0,2,international_results.csv,49219.0,H49219
+M008,Curacao,2026-06-14,3,2026-03-31,Australia,1,5,international_results.csv,49317.0,H49317
+M008,Curacao,2026-06-14,4,2026-05-30,Scotland,1,4,international_results.csv,49337.0,H49337
+M008,Curacao,2026-06-14,5,2026-06-06,Aruba,4,0,international_results.csv,49421.0,H49421
+M009,Haiti,2026-06-14,1,2025-11-18,Nicaragua,2,0,international_results.csv,49067.0,H49067
+M009,Haiti,2026-06-14,2,2026-03-28,Tunisia,0,1,international_results.csv,49237.0,H49237
+M009,Haiti,2026-06-14,3,2026-03-31,Iceland,1,1,international_results.csv,49286.0,H49286
+M009,Haiti,2026-06-14,4,2026-06-02,New Zealand,4,0,international_results.csv,49359.0,H49359
+M009,Haiti,2026-06-14,5,2026-06-05,Peru,1,2,international_results.csv,49394.0,H49394
+M009,Scotland,2026-06-14,1,2025-11-18,Denmark,4,2,international_results.csv,49050.0,H49050
+M009,Scotland,2026-06-14,2,2026-03-28,Japan,0,1,international_results.csv,49242.0,H49242
+M009,Scotland,2026-06-14,3,2026-03-31,Ivory Coast,0,1,international_results.csv,49288.0,H49288
+M009,Scotland,2026-06-14,4,2026-05-30,Curacao,4,1,international_results.csv,49337.0,H49337
+M009,Scotland,2026-06-14,5,2026-06-06,Bolivia,4,0,international_results.csv,49419.0,H49419
+M010,Netherlands,2026-06-14,1,2025-11-17,Lithuania,4,0,international_results.csv,49011.0,H49011
+M010,Netherlands,2026-06-14,2,2026-03-27,Norway,2,1,international_results.csv,49211.0,H49211
+M010,Netherlands,2026-06-14,3,2026-03-31,Ecuador,1,1,international_results.csv,49295.0,H49295
+M010,Netherlands,2026-06-14,4,2026-06-03,Algeria,0,1,international_results.csv,49371.0,H49371
+M010,Netherlands,2026-06-14,5,2026-06-08,Uzbekistan,2,1,international_results.csv,49448.0,H49448
+M010,Japan,2026-06-14,1,2025-11-14,Ghana,2,0,international_results.csv,48954.0,H48954
+M010,Japan,2026-06-14,2,2025-11-18,Bolivia,3,0,international_results.csv,49023.0,H49023
+M010,Japan,2026-06-14,3,2026-03-28,Scotland,1,0,international_results.csv,49242.0,H49242
+M010,Japan,2026-06-14,4,2026-03-31,England,1,0,international_results.csv,49284.0,H49284
+M010,Japan,2026-06-14,5,2026-05-31,Iceland,1,0,international_results.csv,49348.0,H49348
+M011,Belgium,2026-06-15,1,2025-11-18,Liechtenstein,7,0,international_results.csv,49057.0,H49057
+M011,Belgium,2026-06-15,2,2026-03-28,USA,5,2,international_results.csv,49244.0,H49244
+M011,Belgium,2026-06-15,3,2026-03-31,Mexico,1,1,international_results.csv,49292.0,H49292
+M011,Belgium,2026-06-15,4,2026-06-02,Croatia,2,0,international_results.csv,49357.0,H49357
+M011,Belgium,2026-06-15,5,2026-06-06,Tunisia,5,0,international_results.csv,49417.0,H49417
+M011,Egypt,2026-06-15,1,2026-01-17,Nigeria,0,0,international_results.csv,49160.0,H49160
+M011,Egypt,2026-06-15,2,2026-03-27,Saudi Arabia,4,0,international_results.csv,49212.0,H49212
+M011,Egypt,2026-06-15,3,2026-03-31,Spain,0,0,international_results.csv,49306.0,H49306
+M011,Egypt,2026-06-15,4,2026-05-28,Russia,1,0,international_results.csv,49329.0,H49329
+M011,Egypt,2026-06-15,5,2026-06-06,Brazil,1,2,international_results.csv,49420.0,H49420
+M012,Ivory Coast,2026-06-15,1,2026-01-06,Burkina Faso,3,0,international_results.csv,49153.0,H49153
+M012,Ivory Coast,2026-06-15,2,2026-01-10,Egypt,2,3,international_results.csv,49157.0,H49157
+M012,Ivory Coast,2026-06-15,3,2026-03-28,South Korea,4,0,international_results.csv,49239.0,H49239
+M012,Ivory Coast,2026-06-15,4,2026-03-31,Scotland,1,0,international_results.csv,49288.0,H49288
+M012,Ivory Coast,2026-06-15,5,2026-06-04,France,2,1,international_results.csv,49380.0,H49380
+M012,Ecuador,2026-06-15,1,2025-11-18,New Zealand,2,0,international_results.csv,49042.0,H49042
+M012,Ecuador,2026-06-15,2,2026-03-27,Morocco,1,1,international_results.csv,49210.0,H49210
+M012,Ecuador,2026-06-15,3,2026-03-31,Netherlands,1,1,international_results.csv,49295.0,H49295
+M012,Ecuador,2026-06-15,4,2026-05-30,Saudi Arabia,2,1,international_results.csv,49334.0,H49334
+M012,Ecuador,2026-06-15,5,2026-06-07,Guatemala,3,0,international_results.csv,49440.0,H49440
+M013,Saudi Arabia,2026-06-15,1,2026-03-27,Egypt,0,4,international_results.csv,49212.0,H49212
+M013,Saudi Arabia,2026-06-15,2,2026-03-31,Serbia,1,2,international_results.csv,49303.0,H49303
+M013,Saudi Arabia,2026-06-15,3,2026-05-30,Ecuador,1,2,international_results.csv,49334.0,H49334
+M013,Saudi Arabia,2026-06-15,4,2026-06-05,Puerto Rico,3,0,international_results.csv,49408.0,H49408
+M013,Saudi Arabia,2026-06-15,5,2026-06-09,Senegal,0,0,international_results.csv,49464.0,H49464
+M013,Uruguay,2026-06-15,1,2025-10-13,Uzbekistan,2,1,international_results.csv,48843.0,H48843
+M013,Uruguay,2026-06-15,2,2025-11-15,Mexico,0,0,international_results.csv,48971.0,H48971
+M013,Uruguay,2026-06-15,3,2025-11-18,USA,1,5,international_results.csv,49046.0,H49046
+M013,Uruguay,2026-06-15,4,2026-03-27,England,1,1,international_results.csv,49204.0,H49204
+M013,Uruguay,2026-06-15,5,2026-03-31,Algeria,0,0,international_results.csv,49276.0,H49276
+M014,Spain,2026-06-15,1,2025-11-18,Turkey,2,2,international_results.csv,49052.0,H49052
+M014,Spain,2026-06-15,2,2026-03-27,Serbia,3,0,international_results.csv,49214.0,H49214
+M014,Spain,2026-06-15,3,2026-03-31,Egypt,0,0,international_results.csv,49306.0,H49306
+M014,Spain,2026-06-15,4,2026-06-04,Iraq,1,1,international_results.csv,49387.0,H49387
+M014,Spain,2026-06-15,5,2026-06-08,Peru,3,1,international_results.csv,49449.0,H49449
+M014,Cape Verde,2026-06-15,1,2025-11-17,Egypt,1,1,international_results.csv,49014.0,H49014
+M014,Cape Verde,2026-06-15,2,2026-03-27,Chile,2,4,international_results.csv,49224.0,H49224
+M014,Cape Verde,2026-06-15,3,2026-03-30,Finland,1,1,international_results.csv,49268.0,H49268
+M014,Cape Verde,2026-06-15,4,2026-05-31,Serbia,3,0,international_results.csv,49341.0,H49341
+M014,Cape Verde,2026-06-15,5,2026-06-06,Bermuda,0,3,international_results.csv,49418.0,H49418
+M015,Sweden,2026-06-15,1,2025-11-18,Slovenia,1,1,international_results.csv,49049.0,H49049
+M015,Sweden,2026-06-15,2,2026-03-26,Ukraine,3,1,international_results.csv,49186.0,H49186
+M015,Sweden,2026-06-15,3,2026-03-31,Poland,3,2,international_results.csv,49313.0,H49313
+M015,Sweden,2026-06-15,4,2026-06-01,Norway,1,3,international_results.csv,49353.0,H49353
+M015,Sweden,2026-06-15,5,2026-06-04,Greece,2,2,international_results.csv,49388.0,H49388
+M015,Tunisia,2026-06-15,1,2026-01-03,Mali,1,1,international_results.csv,49147.0,H49147
+M015,Tunisia,2026-06-15,2,2026-03-28,Haiti,1,0,international_results.csv,49237.0,H49237
+M015,Tunisia,2026-06-15,3,2026-03-31,Canada,0,0,international_results.csv,49282.0,H49282
+M015,Tunisia,2026-06-15,4,2026-06-01,Austria,0,1,international_results.csv,49349.0,H49349
+M015,Tunisia,2026-06-15,5,2026-06-06,Belgium,0,5,international_results.csv,49417.0,H49417
+M016,France,2026-06-16,1,2025-11-16,Azerbaijan,3,1,international_results.csv,48995.0,H48995
+M016,France,2026-06-16,2,2026-03-26,Brazil,2,1,international_results.csv,49175.0,H49175
+M016,France,2026-06-16,3,2026-03-29,Colombia,3,1,international_results.csv,49251.0,H49251
+M016,France,2026-06-16,4,2026-06-04,Ivory Coast,1,2,international_results.csv,49380.0,H49380
+M016,France,2026-06-16,5,2026-06-08,Northern Ireland,3,1,international_results.csv,49447.0,H49447
+M016,Senegal,2026-06-16,1,2026-01-18,Morocco,0,3,international_results.csv,49161.0,H49161
+M016,Senegal,2026-06-16,2,2026-03-28,Peru,2,0,international_results.csv,49243.0,H49243
+M016,Senegal,2026-06-16,3,2026-03-31,Gambia,3,1,international_results.csv,49302.0,H49302
+M016,Senegal,2026-06-16,4,2026-05-31,USA,2,3,international_results.csv,49347.0,H49347
+M016,Senegal,2026-06-16,5,2026-06-09,Saudi Arabia,0,0,international_results.csv,49464.0,H49464
+M017,Iran,2026-06-16,1,2025-11-18,Uzbekistan,0,0,international_results.csv,49061.0,H49061
+M017,Iran,2026-06-16,2,2026-03-27,Nigeria,1,2,international_results.csv,49218.0,H49218
+M017,Iran,2026-06-16,3,2026-03-31,Costa Rica,5,0,international_results.csv,49283.0,H49283
+M017,Iran,2026-06-16,4,2026-05-29,Gambia,3,1,international_results.csv,49332.0,H49332
+M017,Iran,2026-06-16,5,2026-06-04,Mali,2,0,international_results.csv,49382.0,H49382
+M017,New Zealand,2026-06-16,1,2025-11-18,Ecuador,0,2,international_results.csv,49042.0,H49042
+M017,New Zealand,2026-06-16,2,2026-03-27,Finland,0,2,international_results.csv,49225.0,H49225
+M017,New Zealand,2026-06-16,3,2026-03-30,Chile,4,1,international_results.csv,49269.0,H49269
+M017,New Zealand,2026-06-16,4,2026-06-02,Haiti,0,4,international_results.csv,49359.0,H49359
+M017,New Zealand,2026-06-16,5,2026-06-06,England,0,1,international_results.csv,49422.0,H49422
+M018,Iraq,2026-06-16,1,2025-12-12,Jordan,0,1,international_results.csv,49105.0,H49105
+M018,Iraq,2026-06-16,2,2026-03-31,Bolivia,2,1,international_results.csv,49311.0,H49311
+M018,Iraq,2026-06-16,3,2026-05-29,Andorra,1,0,international_results.csv,49330.0,H49330
+M018,Iraq,2026-06-16,4,2026-06-04,Spain,1,1,international_results.csv,49387.0,H49387
+M018,Iraq,2026-06-16,5,2026-06-09,Venezuela,0,2,international_results.csv,49472.0,H49472
+M018,Norway,2026-06-16,1,2025-11-16,Italy,4,1,international_results.csv,48999.0,H48999
+M018,Norway,2026-06-16,2,2026-03-27,Netherlands,1,2,international_results.csv,49211.0,H49211
+M018,Norway,2026-06-16,3,2026-03-31,Switzerland,0,0,international_results.csv,49297.0,H49297
+M018,Norway,2026-06-16,4,2026-06-01,Sweden,3,1,international_results.csv,49353.0,H49353
+M018,Norway,2026-06-16,5,2026-06-07,Morocco,1,1,international_results.csv,49445.0,H49445
+M019,Argentina,2026-06-17,1,2025-11-14,Angola,2,0,international_results.csv,48946.0,H48946
+M019,Argentina,2026-06-17,2,2026-03-27,Mauritania,2,1,international_results.csv,49202.0,H49202
+M019,Argentina,2026-06-17,3,2026-03-31,Zambia,5,0,international_results.csv,49277.0,H49277
+M019,Argentina,2026-06-17,4,2026-06-06,Honduras,2,0,international_results.csv,49414.0,H49414
+M019,Argentina,2026-06-17,5,2026-06-09,Iceland,3,0,international_results.csv,49452.0,H49452
+M019,Algeria,2026-06-17,1,2026-01-10,Nigeria,0,2,international_results.csv,49156.0,H49156
+M019,Algeria,2026-06-17,2,2026-03-27,Guatemala,7,0,international_results.csv,49201.0,H49201
+M019,Algeria,2026-06-17,3,2026-03-31,Uruguay,0,0,international_results.csv,49276.0,H49276
+M019,Algeria,2026-06-17,4,2026-06-03,Netherlands,1,0,international_results.csv,49371.0,H49371
+M019,Algeria,2026-06-17,5,2026-06-10,Bolivia,4,0,international_results.csv,49473.0,H49473
+M020,Austria,2026-06-17,1,2025-11-15,Cyprus,2,0,international_results.csv,48980.0,H48980
+M020,Austria,2026-06-17,2,2025-11-18,Bosnia & Herzegovina,1,1,international_results.csv,49054.0,H49054
+M020,Austria,2026-06-17,3,2026-03-27,Ghana,5,1,international_results.csv,49203.0,H49203
+M020,Austria,2026-06-17,4,2026-03-31,South Korea,1,0,international_results.csv,49278.0,H49278
+M020,Austria,2026-06-17,5,2026-06-01,Tunisia,1,0,international_results.csv,49349.0,H49349
+M020,Jordan,2026-06-17,1,2025-12-18,Morocco,2,3,international_results.csv,49109.0,H49109
+M020,Jordan,2026-06-17,2,2026-03-27,Costa Rica,2,2,international_results.csv,49217.0,H49217
+M020,Jordan,2026-06-17,3,2026-03-31,Nigeria,2,2,international_results.csv,49289.0,H49289
+M020,Jordan,2026-06-17,4,2026-05-31,Switzerland,1,4,international_results.csv,49346.0,H49346
+M020,Jordan,2026-06-17,5,2026-06-07,Colombia,0,2,international_results.csv,49442.0,H49442
+M021,England,2026-06-17,1,2025-11-16,Albania,2,0,international_results.csv,49000.0,H49000
+M021,England,2026-06-17,2,2026-03-27,Uruguay,1,1,international_results.csv,49204.0,H49204
+M021,England,2026-06-17,3,2026-03-31,Japan,0,1,international_results.csv,49284.0,H49284
+M021,England,2026-06-17,4,2026-06-06,New Zealand,1,0,international_results.csv,49422.0,H49422
+M021,England,2026-06-17,5,2026-06-10,Costa Rica,3,0,international_results.csv,49474.0,H49474
+M021,Croatia,2026-06-17,1,2025-11-17,Montenegro,3,2,international_results.csv,49013.0,H49013
+M021,Croatia,2026-06-17,2,2026-03-26,Colombia,2,1,international_results.csv,49176.0,H49176
+M021,Croatia,2026-06-17,3,2026-03-31,Brazil,1,3,international_results.csv,49280.0,H49280
+M021,Croatia,2026-06-17,4,2026-06-02,Belgium,0,2,international_results.csv,49357.0,H49357
+M021,Croatia,2026-06-17,5,2026-06-07,Slovenia,2,1,international_results.csv,49439.0,H49439
+M022,Portugal,2026-06-17,1,2025-11-16,Armenia,9,1,international_results.csv,48996.0,H48996
+M022,Portugal,2026-06-17,2,2026-03-28,Mexico,0,0,international_results.csv,49240.0,H49240
+M022,Portugal,2026-06-17,3,2026-03-31,USA,2,0,international_results.csv,49308.0,H49308
+M022,Portugal,2026-06-17,4,2026-06-06,Chile,2,1,international_results.csv,49428.0,H49428
+M022,Portugal,2026-06-17,5,2026-06-10,Nigeria,2,1,international_results.csv,49475.0,H49475
+M022,D.R. Congo,2026-06-17,1,2026-01-06,Algeria,0,1,international_results.csv,49152.0,H49152
+M022,D.R. Congo,2026-06-17,2,2026-03-25,Bermuda,2,0,international_results.csv,49169.0,H49169
+M022,D.R. Congo,2026-06-17,3,2026-03-31,Jamaica,1,0,international_results.csv,49310.0,H49310
+M022,D.R. Congo,2026-06-17,4,2026-06-03,Denmark,0,0,international_results.csv,49367.0,H49367
+M022,D.R. Congo,2026-06-17,5,2026-06-09,Chile,1,2,international_results.csv,49458.0,H49458
+M023,Canada,2026-06-18,1,2026-03-28,Iceland,2,2,international_results.csv,49236.0,H49236
+M023,Canada,2026-06-18,2,2026-03-31,Tunisia,0,0,international_results.csv,49282.0,H49282
+M023,Canada,2026-06-18,3,2026-06-01,Uzbekistan,2,0,international_results.csv,49351.0,H49351
+M023,Canada,2026-06-18,4,2026-06-05,Republic of Ireland,1,1,international_results.csv,49392.0,H49392
+M023,Canada,2026-06-18,5,2026-06-12,Bosnia & Herzegovina,1,1,tsdl_fixtures.csv,6.0,M002
+M023,Qatar,2026-06-18,1,2025-12-04,Syria,1,1,international_results.csv,49088.0,H49088
+M023,Qatar,2026-06-18,2,2025-12-07,Tunisia,0,3,international_results.csv,49095.0,H49095
+M023,Qatar,2026-06-18,3,2026-05-28,Republic of Ireland,0,1,international_results.csv,49328.0,H49328
+M023,Qatar,2026-06-18,4,2026-06-06,El Salvador,0,0,international_results.csv,49429.0,H49429
+M023,Qatar,2026-06-18,5,2026-06-13,Switzerland,1,1,tsdl_fixtures.csv,8.0,M005
+M024,Czech Republic,2026-06-18,1,2026-03-26,Republic of Ireland,2,2,international_results.csv,49189.0,H49189
+M024,Czech Republic,2026-06-18,2,2026-03-31,Denmark,2,2,international_results.csv,49315.0,H49315
+M024,Czech Republic,2026-06-18,3,2026-05-31,Kosovo,2,1,international_results.csv,49342.0,H49342
+M024,Czech Republic,2026-06-18,4,2026-06-04,Guatemala,5,1,international_results.csv,49381.0,H49381
+M024,Czech Republic,2026-06-18,5,2026-06-12,South Korea,1,2,tsdl_fixtures.csv,5.0,M003
+M024,South Africa,2026-06-18,1,2026-03-27,Panama,1,1,international_results.csv,49213.0,H49213
+M024,South Africa,2026-06-18,2,2026-03-31,Panama,1,2,international_results.csv,49305.0,H49305
+M024,South Africa,2026-06-18,3,2026-05-29,Nicaragua,0,0,international_results.csv,49333.0,H49333
+M024,South Africa,2026-06-18,4,2026-06-06,Jamaica,1,0,international_results.csv,49425.0,H49425
+M024,South Africa,2026-06-18,5,2026-06-11,Mexico,0,2,tsdl_fixtures.csv,4.0,M001
+M025,Ghana,2026-06-18,1,2025-11-18,South Korea,0,1,international_results.csv,49044.0,H49044
+M025,Ghana,2026-06-18,2,2026-03-27,Austria,1,5,international_results.csv,49203.0,H49203
+M025,Ghana,2026-06-18,3,2026-03-30,Germany,1,2,international_results.csv,49264.0,H49264
+M025,Ghana,2026-06-18,4,2026-05-22,Mexico,0,2,international_results.csv,49324.0,H49324
+M025,Ghana,2026-06-18,5,2026-06-02,Wales,1,1,international_results.csv,49361.0,H49361
+M025,Panama,2026-06-18,1,2026-03-27,South Africa,1,1,international_results.csv,49213.0,H49213
+M025,Panama,2026-06-18,2,2026-03-31,South Africa,2,1,international_results.csv,49305.0,H49305
+M025,Panama,2026-06-18,3,2026-05-31,Brazil,2,6,international_results.csv,49340.0,H49340
+M025,Panama,2026-06-18,4,2026-06-03,Dominican Republic,4,2,international_results.csv,49372.0,H49372
+M025,Panama,2026-06-18,5,2026-06-06,Bosnia & Herzegovina,1,1,international_results.csv,49427.0,H49427
+M026,Switzerland,2026-06-18,1,2026-03-27,Germany,3,4,international_results.csv,49216.0,H49216
+M026,Switzerland,2026-06-18,2,2026-03-31,Norway,0,0,international_results.csv,49297.0,H49297
+M026,Switzerland,2026-06-18,3,2026-05-31,Jordan,4,1,international_results.csv,49346.0,H49346
+M026,Switzerland,2026-06-18,4,2026-06-06,Australia,1,1,international_results.csv,49416.0,H49416
+M026,Switzerland,2026-06-18,5,2026-06-13,Qatar,1,1,tsdl_fixtures.csv,8.0,M005
+M026,Bosnia & Herzegovina,2026-06-18,1,2026-03-26,Wales,1,1,international_results.csv,49184.0,H49184
+M026,Bosnia & Herzegovina,2026-06-18,2,2026-03-31,Italy,1,1,international_results.csv,49312.0,H49312
+M026,Bosnia & Herzegovina,2026-06-18,3,2026-05-29,North Macedonia,0,0,international_results.csv,49331.0,H49331
+M026,Bosnia & Herzegovina,2026-06-18,4,2026-06-06,Panama,1,1,international_results.csv,49427.0,H49427
+M026,Bosnia & Herzegovina,2026-06-18,5,2026-06-12,Canada,1,1,tsdl_fixtures.csv,6.0,M002
+M027,Uzbekistan,2026-06-18,1,2026-01-26,China,2,2,international_results.csv,49166.0,H49166
+M027,Uzbekistan,2026-06-18,2,2026-03-27,Gabon,3,1,international_results.csv,49229.0,H49229
+M027,Uzbekistan,2026-06-18,3,2026-03-30,Venezuela,0,0,international_results.csv,49273.0,H49273
+M027,Uzbekistan,2026-06-18,4,2026-06-01,Canada,0,2,international_results.csv,49351.0,H49351
+M027,Uzbekistan,2026-06-18,5,2026-06-08,Netherlands,1,2,international_results.csv,49448.0,H49448
+M027,Colombia,2026-06-18,1,2025-11-18,Australia,3,0,international_results.csv,49040.0,H49040
+M027,Colombia,2026-06-18,2,2026-03-26,Croatia,1,2,international_results.csv,49176.0,H49176
+M027,Colombia,2026-06-18,3,2026-03-29,France,1,3,international_results.csv,49251.0,H49251
+M027,Colombia,2026-06-18,4,2026-06-01,Costa Rica,3,1,international_results.csv,49352.0,H49352
+M027,Colombia,2026-06-18,5,2026-06-07,Jordan,2,0,international_results.csv,49442.0,H49442
+M028,Mexico,2026-06-19,1,2026-03-31,Belgium,1,1,international_results.csv,49292.0,H49292
+M028,Mexico,2026-06-19,2,2026-05-22,Ghana,2,0,international_results.csv,49324.0,H49324
+M028,Mexico,2026-06-19,3,2026-05-30,Australia,1,0,international_results.csv,49336.0,H49336
+M028,Mexico,2026-06-19,4,2026-06-04,Serbia,5,1,international_results.csv,49384.0,H49384
+M028,Mexico,2026-06-19,5,2026-06-11,South Africa,2,0,tsdl_fixtures.csv,4.0,M001
+M028,South Korea,2026-06-19,1,2026-03-28,Ivory Coast,0,4,international_results.csv,49239.0,H49239
+M028,South Korea,2026-06-19,2,2026-03-31,Austria,0,1,international_results.csv,49278.0,H49278
+M028,South Korea,2026-06-19,3,2026-05-30,Trinidad and Tobago,5,0,international_results.csv,49335.0,H49335
+M028,South Korea,2026-06-19,4,2026-06-03,El Salvador,1,0,international_results.csv,49369.0,H49369
+M028,South Korea,2026-06-19,5,2026-06-12,Czech Republic,2,1,tsdl_fixtures.csv,5.0,M003
+M029,Scotland,2026-06-19,1,2026-03-28,Japan,0,1,international_results.csv,49242.0,H49242
+M029,Scotland,2026-06-19,2,2026-03-31,Ivory Coast,0,1,international_results.csv,49288.0,H49288
+M029,Scotland,2026-06-19,3,2026-05-30,Curacao,4,1,international_results.csv,49337.0,H49337
+M029,Scotland,2026-06-19,4,2026-06-06,Bolivia,4,0,international_results.csv,49419.0,H49419
+M029,Scotland,2026-06-19,5,2026-06-14,Haiti,1,0,tsdl_fixtures.csv,10.0,M009
+M029,Morocco,2026-06-19,1,2026-03-31,Paraguay,2,1,international_results.csv,49294.0,H49294
+M029,Morocco,2026-06-19,2,2026-05-26,Burundi,5,0,international_results.csv,49325.0,H49325
+M029,Morocco,2026-06-19,3,2026-06-02,Madagascar,4,0,international_results.csv,49360.0,H49360
+M029,Morocco,2026-06-19,4,2026-06-07,Norway,1,1,international_results.csv,49445.0,H49445
+M029,Morocco,2026-06-19,5,2026-06-13,Brazil,1,1,tsdl_fixtures.csv,9.0,M004
+M030,USA,2026-06-19,1,2026-03-28,Belgium,2,5,international_results.csv,49244.0,H49244
+M030,USA,2026-06-19,2,2026-03-31,Portugal,0,2,international_results.csv,49308.0,H49308
+M030,USA,2026-06-19,3,2026-05-31,Senegal,3,2,international_results.csv,49347.0,H49347
+M030,USA,2026-06-19,4,2026-06-06,Germany,1,2,international_results.csv,49431.0,H49431
+M030,USA,2026-06-19,5,2026-06-13,Paraguay,4,1,tsdl_fixtures.csv,7.0,M006
+M030,Australia,2026-06-19,1,2026-03-27,Cameroon,1,0,international_results.csv,49220.0,H49220
+M030,Australia,2026-06-19,2,2026-03-31,Curacao,5,1,international_results.csv,49317.0,H49317
+M030,Australia,2026-06-19,3,2026-05-30,Mexico,0,1,international_results.csv,49336.0,H49336
+M030,Australia,2026-06-19,4,2026-06-06,Switzerland,1,1,international_results.csv,49416.0,H49416
+M030,Australia,2026-06-19,5,2026-06-14,Turkey,2,0,tsdl_fixtures.csv,11.0,M007
+M031,Brazil,2026-06-20,1,2026-03-26,France,1,2,international_results.csv,49175.0,H49175
+M031,Brazil,2026-06-20,2,2026-03-31,Croatia,3,1,international_results.csv,49280.0,H49280
+M031,Brazil,2026-06-20,3,2026-05-31,Panama,6,2,international_results.csv,49340.0,H49340
+M031,Brazil,2026-06-20,4,2026-06-06,Egypt,2,1,international_results.csv,49420.0,H49420
+M031,Brazil,2026-06-20,5,2026-06-13,Morocco,1,1,tsdl_fixtures.csv,9.0,M004
+M031,Haiti,2026-06-20,1,2026-03-28,Tunisia,0,1,international_results.csv,49237.0,H49237
+M031,Haiti,2026-06-20,2,2026-03-31,Iceland,1,1,international_results.csv,49286.0,H49286
+M031,Haiti,2026-06-20,3,2026-06-02,New Zealand,4,0,international_results.csv,49359.0,H49359
+M031,Haiti,2026-06-20,4,2026-06-05,Peru,1,2,international_results.csv,49394.0,H49394
+M031,Haiti,2026-06-20,5,2026-06-14,Scotland,0,1,tsdl_fixtures.csv,10.0,M009
+M032,Germany,2026-06-20,1,2026-03-27,Switzerland,4,3,international_results.csv,49216.0,H49216
+M032,Germany,2026-06-20,2,2026-03-30,Ghana,2,1,international_results.csv,49264.0,H49264
+M032,Germany,2026-06-20,3,2026-05-31,Finland,4,0,international_results.csv,49343.0,H49343
+M032,Germany,2026-06-20,4,2026-06-06,USA,2,1,international_results.csv,49431.0,H49431
+M032,Germany,2026-06-20,5,2026-06-14,Curacao,7,1,tsdl_fixtures.csv,12.0,M008
+M032,Ivory Coast,2026-06-20,1,2026-01-10,Egypt,2,3,international_results.csv,49157.0,H49157
+M032,Ivory Coast,2026-06-20,2,2026-03-28,South Korea,4,0,international_results.csv,49239.0,H49239
+M032,Ivory Coast,2026-06-20,3,2026-03-31,Scotland,1,0,international_results.csv,49288.0,H49288
+M032,Ivory Coast,2026-06-20,4,2026-06-04,France,2,1,international_results.csv,49380.0,H49380
+M032,Ivory Coast,2026-06-20,5,2026-06-15,Ecuador,1,0,tsdl_fixtures.csv,14.0,M012
+M033,Netherlands,2026-06-20,1,2026-03-27,Norway,2,1,international_results.csv,49211.0,H49211
+M033,Netherlands,2026-06-20,2,2026-03-31,Ecuador,1,1,international_results.csv,49295.0,H49295
+M033,Netherlands,2026-06-20,3,2026-06-03,Algeria,0,1,international_results.csv,49371.0,H49371
+M033,Netherlands,2026-06-20,4,2026-06-08,Uzbekistan,2,1,international_results.csv,49448.0,H49448
+M033,Netherlands,2026-06-20,5,2026-06-14,Japan,2,2,tsdl_fixtures.csv,13.0,M010
+M033,Sweden,2026-06-20,1,2026-03-26,Ukraine,3,1,international_results.csv,49186.0,H49186
+M033,Sweden,2026-06-20,2,2026-03-31,Poland,3,2,international_results.csv,49313.0,H49313
+M033,Sweden,2026-06-20,3,2026-06-01,Norway,1,3,international_results.csv,49353.0,H49353
+M033,Sweden,2026-06-20,4,2026-06-04,Greece,2,2,international_results.csv,49388.0,H49388
+M033,Sweden,2026-06-20,5,2026-06-15,Tunisia,5,1,tsdl_fixtures.csv,15.0,M015
+M034,Turkey,2026-06-20,1,2026-03-26,Romania,1,0,international_results.csv,49188.0,H49188
+M034,Turkey,2026-06-20,2,2026-03-31,Kosovo,1,0,international_results.csv,49314.0,H49314
+M034,Turkey,2026-06-20,3,2026-06-01,North Macedonia,4,0,international_results.csv,49355.0,H49355
+M034,Turkey,2026-06-20,4,2026-06-06,Venezuela,2,1,international_results.csv,49434.0,H49434
+M034,Turkey,2026-06-20,5,2026-06-14,Australia,0,2,tsdl_fixtures.csv,11.0,M007
+M034,Paraguay,2026-06-20,1,2025-11-18,Mexico,2,1,international_results.csv,49045.0,H49045
+M034,Paraguay,2026-06-20,2,2026-03-27,Greece,1,0,international_results.csv,49205.0,H49205
+M034,Paraguay,2026-06-20,3,2026-03-31,Morocco,1,2,international_results.csv,49294.0,H49294
+M034,Paraguay,2026-06-20,4,2026-06-05,Nicaragua,4,0,international_results.csv,49399.0,H49399
+M034,Paraguay,2026-06-20,5,2026-06-13,USA,1,4,tsdl_fixtures.csv,7.0,M006
+M035,Belgium,2026-06-21,1,2026-03-28,USA,5,2,international_results.csv,49244.0,H49244
+M035,Belgium,2026-06-21,2,2026-03-31,Mexico,1,1,international_results.csv,49292.0,H49292
+M035,Belgium,2026-06-21,3,2026-06-02,Croatia,2,0,international_results.csv,49357.0,H49357
+M035,Belgium,2026-06-21,4,2026-06-06,Tunisia,5,0,international_results.csv,49417.0,H49417
+M035,Belgium,2026-06-21,5,2026-06-15,Egypt,1,1,tsdl_fixtures.csv,17.0,M011
+M035,Iran,2026-06-21,1,2026-03-27,Nigeria,1,2,international_results.csv,49218.0,H49218
+M035,Iran,2026-06-21,2,2026-03-31,Costa Rica,5,0,international_results.csv,49283.0,H49283
+M035,Iran,2026-06-21,3,2026-05-29,Gambia,3,1,international_results.csv,49332.0,H49332
+M035,Iran,2026-06-21,4,2026-06-04,Mali,2,0,international_results.csv,49382.0,H49382
+M035,Iran,2026-06-21,5,2026-06-16,New Zealand,2,2,tsdl_fixtures.csv,19.0,M017
+M036,Ecuador,2026-06-21,1,2026-03-27,Morocco,1,1,international_results.csv,49210.0,H49210
+M036,Ecuador,2026-06-21,2,2026-03-31,Netherlands,1,1,international_results.csv,49295.0,H49295
+M036,Ecuador,2026-06-21,3,2026-05-30,Saudi Arabia,2,1,international_results.csv,49334.0,H49334
+M036,Ecuador,2026-06-21,4,2026-06-07,Guatemala,3,0,international_results.csv,49440.0,H49440
+M036,Ecuador,2026-06-21,5,2026-06-15,Ivory Coast,0,1,tsdl_fixtures.csv,14.0,M012
+M036,Curacao,2026-06-21,1,2026-03-27,China,0,2,international_results.csv,49219.0,H49219
+M036,Curacao,2026-06-21,2,2026-03-31,Australia,1,5,international_results.csv,49317.0,H49317
+M036,Curacao,2026-06-21,3,2026-05-30,Scotland,1,4,international_results.csv,49337.0,H49337
+M036,Curacao,2026-06-21,4,2026-06-06,Aruba,4,0,international_results.csv,49421.0,H49421
+M036,Curacao,2026-06-21,5,2026-06-14,Germany,1,7,tsdl_fixtures.csv,12.0,M008
+M037,Spain,2026-06-21,1,2026-03-27,Serbia,3,0,international_results.csv,49214.0,H49214
+M037,Spain,2026-06-21,2,2026-03-31,Egypt,0,0,international_results.csv,49306.0,H49306
+M037,Spain,2026-06-21,3,2026-06-04,Iraq,1,1,international_results.csv,49387.0,H49387
+M037,Spain,2026-06-21,4,2026-06-08,Peru,3,1,international_results.csv,49449.0,H49449
+M037,Spain,2026-06-21,5,2026-06-15,Cape Verde,0,0,tsdl_fixtures.csv,16.0,M014
+M037,Saudi Arabia,2026-06-21,1,2026-03-31,Serbia,1,2,international_results.csv,49303.0,H49303
+M037,Saudi Arabia,2026-06-21,2,2026-05-30,Ecuador,1,2,international_results.csv,49334.0,H49334
+M037,Saudi Arabia,2026-06-21,3,2026-06-05,Puerto Rico,3,0,international_results.csv,49408.0,H49408
+M037,Saudi Arabia,2026-06-21,4,2026-06-09,Senegal,0,0,international_results.csv,49464.0,H49464
+M037,Saudi Arabia,2026-06-21,5,2026-06-15,Uruguay,1,1,tsdl_fixtures.csv,18.0,M013
+M038,Tunisia,2026-06-21,1,2026-03-28,Haiti,1,0,international_results.csv,49237.0,H49237
+M038,Tunisia,2026-06-21,2,2026-03-31,Canada,0,0,international_results.csv,49282.0,H49282
+M038,Tunisia,2026-06-21,3,2026-06-01,Austria,0,1,international_results.csv,49349.0,H49349
+M038,Tunisia,2026-06-21,4,2026-06-06,Belgium,0,5,international_results.csv,49417.0,H49417
+M038,Tunisia,2026-06-21,5,2026-06-15,Sweden,1,5,tsdl_fixtures.csv,15.0,M015
+M038,Japan,2026-06-21,1,2025-11-18,Bolivia,3,0,international_results.csv,49023.0,H49023
+M038,Japan,2026-06-21,2,2026-03-28,Scotland,1,0,international_results.csv,49242.0,H49242
+M038,Japan,2026-06-21,3,2026-03-31,England,1,0,international_results.csv,49284.0,H49284
+M038,Japan,2026-06-21,4,2026-05-31,Iceland,1,0,international_results.csv,49348.0,H49348
+M038,Japan,2026-06-21,5,2026-06-14,Netherlands,2,2,tsdl_fixtures.csv,13.0,M010
+M039,Uruguay,2026-06-21,1,2025-11-15,Mexico,0,0,international_results.csv,48971.0,H48971
+M039,Uruguay,2026-06-21,2,2025-11-18,USA,1,5,international_results.csv,49046.0,H49046
+M039,Uruguay,2026-06-21,3,2026-03-27,England,1,1,international_results.csv,49204.0,H49204
+M039,Uruguay,2026-06-21,4,2026-03-31,Algeria,0,0,international_results.csv,49276.0,H49276
+M039,Uruguay,2026-06-21,5,2026-06-15,Saudi Arabia,1,1,tsdl_fixtures.csv,18.0,M013
+M039,Cape Verde,2026-06-21,1,2026-03-27,Chile,2,4,international_results.csv,49224.0,H49224
+M039,Cape Verde,2026-06-21,2,2026-03-30,Finland,1,1,international_results.csv,49268.0,H49268
+M039,Cape Verde,2026-06-21,3,2026-05-31,Serbia,3,0,international_results.csv,49341.0,H49341
+M039,Cape Verde,2026-06-21,4,2026-06-06,Bermuda,0,3,international_results.csv,49418.0,H49418
+M039,Cape Verde,2026-06-21,5,2026-06-15,Spain,0,0,tsdl_fixtures.csv,16.0,M014
+M040,Argentina,2026-06-22,1,2026-03-27,Mauritania,2,1,international_results.csv,49202.0,H49202
+M040,Argentina,2026-06-22,2,2026-03-31,Zambia,5,0,international_results.csv,49277.0,H49277
+M040,Argentina,2026-06-22,3,2026-06-06,Honduras,2,0,international_results.csv,49414.0,H49414
+M040,Argentina,2026-06-22,4,2026-06-09,Iceland,3,0,international_results.csv,49452.0,H49452
+M040,Argentina,2026-06-22,5,2026-06-17,Algeria,3,0,tsdl_fixtures.csv,22.0,M019
+M040,Austria,2026-06-22,1,2025-11-18,Bosnia & Herzegovina,1,1,international_results.csv,49054.0,H49054
+M040,Austria,2026-06-22,2,2026-03-27,Ghana,5,1,international_results.csv,49203.0,H49203
+M040,Austria,2026-06-22,3,2026-03-31,South Korea,1,0,international_results.csv,49278.0,H49278
+M040,Austria,2026-06-22,4,2026-06-01,Tunisia,1,0,international_results.csv,49349.0,H49349
+M040,Austria,2026-06-22,5,2026-06-17,Jordan,3,1,tsdl_fixtures.csv,23.0,M020
+M041,France,2026-06-22,1,2026-03-26,Brazil,2,1,international_results.csv,49175.0,H49175
+M041,France,2026-06-22,2,2026-03-29,Colombia,3,1,international_results.csv,49251.0,H49251
+M041,France,2026-06-22,3,2026-06-04,Ivory Coast,1,2,international_results.csv,49380.0,H49380
+M041,France,2026-06-22,4,2026-06-08,Northern Ireland,3,1,international_results.csv,49447.0,H49447
+M041,France,2026-06-22,5,2026-06-16,Senegal,3,1,tsdl_fixtures.csv,20.0,M016
+M041,Iraq,2026-06-22,1,2026-03-31,Bolivia,2,1,international_results.csv,49311.0,H49311
+M041,Iraq,2026-06-22,2,2026-05-29,Andorra,1,0,international_results.csv,49330.0,H49330
+M041,Iraq,2026-06-22,3,2026-06-04,Spain,1,1,international_results.csv,49387.0,H49387
+M041,Iraq,2026-06-22,4,2026-06-09,Venezuela,0,2,international_results.csv,49472.0,H49472
+M041,Iraq,2026-06-22,5,2026-06-16,Norway,1,4,tsdl_fixtures.csv,21.0,M018
+M042,New Zealand,2026-06-22,1,2026-03-27,Finland,0,2,international_results.csv,49225.0,H49225
+M042,New Zealand,2026-06-22,2,2026-03-30,Chile,4,1,international_results.csv,49269.0,H49269
+M042,New Zealand,2026-06-22,3,2026-06-02,Haiti,0,4,international_results.csv,49359.0,H49359
+M042,New Zealand,2026-06-22,4,2026-06-06,England,0,1,international_results.csv,49422.0,H49422
+M042,New Zealand,2026-06-22,5,2026-06-16,Iran,2,2,tsdl_fixtures.csv,19.0,M017
+M042,Egypt,2026-06-22,1,2026-03-27,Saudi Arabia,4,0,international_results.csv,49212.0,H49212
+M042,Egypt,2026-06-22,2,2026-03-31,Spain,0,0,international_results.csv,49306.0,H49306
+M042,Egypt,2026-06-22,3,2026-05-28,Russia,1,0,international_results.csv,49329.0,H49329
+M042,Egypt,2026-06-22,4,2026-06-06,Brazil,1,2,international_results.csv,49420.0,H49420
+M042,Egypt,2026-06-22,5,2026-06-15,Belgium,1,1,tsdl_fixtures.csv,17.0,M011
+M043,England,2026-06-23,1,2026-03-27,Uruguay,1,1,international_results.csv,49204.0,H49204
+M043,England,2026-06-23,2,2026-03-31,Japan,0,1,international_results.csv,49284.0,H49284
+M043,England,2026-06-23,3,2026-06-06,New Zealand,1,0,international_results.csv,49422.0,H49422
+M043,England,2026-06-23,4,2026-06-10,Costa Rica,3,0,international_results.csv,49474.0,H49474
+M043,England,2026-06-23,5,2026-06-17,Croatia,4,2,tsdl_fixtures.csv,25.0,M021
+M043,Ghana,2026-06-23,1,2026-03-27,Austria,1,5,international_results.csv,49203.0,H49203
+M043,Ghana,2026-06-23,2,2026-03-30,Germany,1,2,international_results.csv,49264.0,H49264
+M043,Ghana,2026-06-23,3,2026-05-22,Mexico,0,2,international_results.csv,49324.0,H49324
+M043,Ghana,2026-06-23,4,2026-06-02,Wales,1,1,international_results.csv,49361.0,H49361
+M043,Ghana,2026-06-23,5,2026-06-18,Panama,1,0,tsdl_fixtures.csv,26.0,M025
+M044,Jordan,2026-06-23,1,2026-03-27,Costa Rica,2,2,international_results.csv,49217.0,H49217
+M044,Jordan,2026-06-23,2,2026-03-31,Nigeria,2,2,international_results.csv,49289.0,H49289
+M044,Jordan,2026-06-23,3,2026-05-31,Switzerland,1,4,international_results.csv,49346.0,H49346
+M044,Jordan,2026-06-23,4,2026-06-07,Colombia,0,2,international_results.csv,49442.0,H49442
+M044,Jordan,2026-06-23,5,2026-06-17,Austria,1,3,tsdl_fixtures.csv,23.0,M020
+M044,Algeria,2026-06-23,1,2026-03-27,Guatemala,7,0,international_results.csv,49201.0,H49201
+M044,Algeria,2026-06-23,2,2026-03-31,Uruguay,0,0,international_results.csv,49276.0,H49276
+M044,Algeria,2026-06-23,3,2026-06-03,Netherlands,1,0,international_results.csv,49371.0,H49371
+M044,Algeria,2026-06-23,4,2026-06-10,Bolivia,4,0,international_results.csv,49473.0,H49473
+M044,Algeria,2026-06-23,5,2026-06-17,Argentina,0,3,tsdl_fixtures.csv,22.0,M019
+M045,Norway,2026-06-23,1,2026-03-27,Netherlands,1,2,international_results.csv,49211.0,H49211
+M045,Norway,2026-06-23,2,2026-03-31,Switzerland,0,0,international_results.csv,49297.0,H49297
+M045,Norway,2026-06-23,3,2026-06-01,Sweden,3,1,international_results.csv,49353.0,H49353
+M045,Norway,2026-06-23,4,2026-06-07,Morocco,1,1,international_results.csv,49445.0,H49445
+M045,Norway,2026-06-23,5,2026-06-16,Iraq,4,1,tsdl_fixtures.csv,21.0,M018
+M045,Senegal,2026-06-23,1,2026-03-28,Peru,2,0,international_results.csv,49243.0,H49243
+M045,Senegal,2026-06-23,2,2026-03-31,Gambia,3,1,international_results.csv,49302.0,H49302
+M045,Senegal,2026-06-23,3,2026-05-31,USA,2,3,international_results.csv,49347.0,H49347
+M045,Senegal,2026-06-23,4,2026-06-09,Saudi Arabia,0,0,international_results.csv,49464.0,H49464
+M045,Senegal,2026-06-23,5,2026-06-16,France,1,3,tsdl_fixtures.csv,20.0,M016
+M046,Portugal,2026-06-23,1,2026-03-28,Mexico,0,0,international_results.csv,49240.0,H49240
+M046,Portugal,2026-06-23,2,2026-03-31,USA,2,0,international_results.csv,49308.0,H49308
+M046,Portugal,2026-06-23,3,2026-06-06,Chile,2,1,international_results.csv,49428.0,H49428
+M046,Portugal,2026-06-23,4,2026-06-10,Nigeria,2,1,international_results.csv,49475.0,H49475
+M046,Portugal,2026-06-23,5,2026-06-17,D.R. Congo,1,1,tsdl_fixtures.csv,24.0,M022
+M046,Uzbekistan,2026-06-23,1,2026-03-27,Gabon,3,1,international_results.csv,49229.0,H49229
+M046,Uzbekistan,2026-06-23,2,2026-03-30,Venezuela,0,0,international_results.csv,49273.0,H49273
+M046,Uzbekistan,2026-06-23,3,2026-06-01,Canada,0,2,international_results.csv,49351.0,H49351
+M046,Uzbekistan,2026-06-23,4,2026-06-08,Netherlands,1,2,international_results.csv,49448.0,H49448
+M046,Uzbekistan,2026-06-23,5,2026-06-18,Colombia,1,3,tsdl_fixtures.csv,27.0,M027
+M047,Bosnia & Herzegovina,2026-06-24,1,2026-03-31,Italy,1,1,international_results.csv,49312.0,H49312
+M047,Bosnia & Herzegovina,2026-06-24,2,2026-05-29,North Macedonia,0,0,international_results.csv,49331.0,H49331
+M047,Bosnia & Herzegovina,2026-06-24,3,2026-06-06,Panama,1,1,international_results.csv,49427.0,H49427
+M047,Bosnia & Herzegovina,2026-06-24,4,2026-06-12,Canada,1,1,tsdl_fixtures.csv,6.0,M002
+M047,Bosnia & Herzegovina,2026-06-24,5,2026-06-18,Switzerland,1,4,tsdl_fixtures.csv,29.0,M026
+M047,Qatar,2026-06-24,1,2025-12-07,Tunisia,0,3,international_results.csv,49095.0,H49095
+M047,Qatar,2026-06-24,2,2026-05-28,Republic of Ireland,0,1,international_results.csv,49328.0,H49328
+M047,Qatar,2026-06-24,3,2026-06-06,El Salvador,0,0,international_results.csv,49429.0,H49429
+M047,Qatar,2026-06-24,4,2026-06-13,Switzerland,1,1,tsdl_fixtures.csv,8.0,M005
+M047,Qatar,2026-06-24,5,2026-06-18,Canada,0,6,tsdl_fixtures.csv,30.0,M023
+M048,Colombia,2026-06-24,1,2026-03-26,Croatia,1,2,international_results.csv,49176.0,H49176
+M048,Colombia,2026-06-24,2,2026-03-29,France,1,3,international_results.csv,49251.0,H49251
+M048,Colombia,2026-06-24,3,2026-06-01,Costa Rica,3,1,international_results.csv,49352.0,H49352
+M048,Colombia,2026-06-24,4,2026-06-07,Jordan,2,0,international_results.csv,49442.0,H49442
+M048,Colombia,2026-06-24,5,2026-06-18,Uzbekistan,3,1,tsdl_fixtures.csv,27.0,M027
+M048,D.R. Congo,2026-06-24,1,2026-03-25,Bermuda,2,0,international_results.csv,49169.0,H49169
+M048,D.R. Congo,2026-06-24,2,2026-03-31,Jamaica,1,0,international_results.csv,49310.0,H49310
+M048,D.R. Congo,2026-06-24,3,2026-06-03,Denmark,0,0,international_results.csv,49367.0,H49367
+M048,D.R. Congo,2026-06-24,4,2026-06-09,Chile,1,2,international_results.csv,49458.0,H49458
+M048,D.R. Congo,2026-06-24,5,2026-06-17,Portugal,1,1,tsdl_fixtures.csv,24.0,M022
+M049,Morocco,2026-06-24,1,2026-05-26,Burundi,5,0,international_results.csv,49325.0,H49325
+M049,Morocco,2026-06-24,2,2026-06-02,Madagascar,4,0,international_results.csv,49360.0,H49360
+M049,Morocco,2026-06-24,3,2026-06-07,Norway,1,1,international_results.csv,49445.0,H49445
+M049,Morocco,2026-06-24,4,2026-06-13,Brazil,1,1,tsdl_fixtures.csv,9.0,M004
+M049,Morocco,2026-06-24,5,2026-06-19,Scotland,1,0,tsdl_fixtures.csv,33.0,M029
+M049,Haiti,2026-06-24,1,2026-03-31,Iceland,1,1,international_results.csv,49286.0,H49286
+M049,Haiti,2026-06-24,2,2026-06-02,New Zealand,4,0,international_results.csv,49359.0,H49359
+M049,Haiti,2026-06-24,3,2026-06-05,Peru,1,2,international_results.csv,49394.0,H49394
+M049,Haiti,2026-06-24,4,2026-06-14,Scotland,0,1,tsdl_fixtures.csv,10.0,M009
+M049,Haiti,2026-06-24,5,2026-06-20,Brazil,0,3,tsdl_fixtures.csv,34.0,M031
+M050,Panama,2026-06-24,1,2026-03-31,South Africa,2,1,international_results.csv,49305.0,H49305
+M050,Panama,2026-06-24,2,2026-05-31,Brazil,2,6,international_results.csv,49340.0,H49340
+M050,Panama,2026-06-24,3,2026-06-03,Dominican Republic,4,2,international_results.csv,49372.0,H49372
+M050,Panama,2026-06-24,4,2026-06-06,Bosnia & Herzegovina,1,1,international_results.csv,49427.0,H49427
+M050,Panama,2026-06-24,5,2026-06-18,Ghana,0,1,tsdl_fixtures.csv,26.0,M025
+M050,Croatia,2026-06-24,1,2026-03-26,Colombia,2,1,international_results.csv,49176.0,H49176
+M050,Croatia,2026-06-24,2,2026-03-31,Brazil,1,3,international_results.csv,49280.0,H49280
+M050,Croatia,2026-06-24,3,2026-06-02,Belgium,0,2,international_results.csv,49357.0,H49357
+M050,Croatia,2026-06-24,4,2026-06-07,Slovenia,2,1,international_results.csv,49439.0,H49439
+M050,Croatia,2026-06-24,5,2026-06-17,England,2,4,tsdl_fixtures.csv,25.0,M021
+M051,Scotland,2026-06-24,1,2026-03-31,Ivory Coast,0,1,international_results.csv,49288.0,H49288
+M051,Scotland,2026-06-24,2,2026-05-30,Curacao,4,1,international_results.csv,49337.0,H49337
+M051,Scotland,2026-06-24,3,2026-06-06,Bolivia,4,0,international_results.csv,49419.0,H49419
+M051,Scotland,2026-06-24,4,2026-06-14,Haiti,1,0,tsdl_fixtures.csv,10.0,M009
+M051,Scotland,2026-06-24,5,2026-06-19,Morocco,0,1,tsdl_fixtures.csv,33.0,M029
+M051,Brazil,2026-06-24,1,2026-03-31,Croatia,3,1,international_results.csv,49280.0,H49280
+M051,Brazil,2026-06-24,2,2026-05-31,Panama,6,2,international_results.csv,49340.0,H49340
+M051,Brazil,2026-06-24,3,2026-06-06,Egypt,2,1,international_results.csv,49420.0,H49420
+M051,Brazil,2026-06-24,4,2026-06-13,Morocco,1,1,tsdl_fixtures.csv,9.0,M004
+M051,Brazil,2026-06-24,5,2026-06-20,Haiti,3,0,tsdl_fixtures.csv,34.0,M031
+M052,Switzerland,2026-06-24,1,2026-03-31,Norway,0,0,international_results.csv,49297.0,H49297
+M052,Switzerland,2026-06-24,2,2026-05-31,Jordan,4,1,international_results.csv,49346.0,H49346
+M052,Switzerland,2026-06-24,3,2026-06-06,Australia,1,1,international_results.csv,49416.0,H49416
+M052,Switzerland,2026-06-24,4,2026-06-13,Qatar,1,1,tsdl_fixtures.csv,8.0,M005
+M052,Switzerland,2026-06-24,5,2026-06-18,Bosnia & Herzegovina,4,1,tsdl_fixtures.csv,29.0,M026
+M052,Canada,2026-06-24,1,2026-03-31,Tunisia,0,0,international_results.csv,49282.0,H49282
+M052,Canada,2026-06-24,2,2026-06-01,Uzbekistan,2,0,international_results.csv,49351.0,H49351
+M052,Canada,2026-06-24,3,2026-06-05,Republic of Ireland,1,1,international_results.csv,49392.0,H49392
+M052,Canada,2026-06-24,4,2026-06-12,Bosnia & Herzegovina,1,1,tsdl_fixtures.csv,6.0,M002
+M052,Canada,2026-06-24,5,2026-06-18,Qatar,6,0,tsdl_fixtures.csv,30.0,M023
+M053,Curacao,2026-06-25,1,2026-03-31,Australia,1,5,international_results.csv,49317.0,H49317
+M053,Curacao,2026-06-25,2,2026-05-30,Scotland,1,4,international_results.csv,49337.0,H49337
+M053,Curacao,2026-06-25,3,2026-06-06,Aruba,4,0,international_results.csv,49421.0,H49421
+M053,Curacao,2026-06-25,4,2026-06-14,Germany,1,7,tsdl_fixtures.csv,12.0,M008
+M053,Curacao,2026-06-25,5,2026-06-21,Ecuador,0,0,tsdl_fixtures.csv,38.0,M036
+M053,Ivory Coast,2026-06-25,1,2026-03-28,South Korea,4,0,international_results.csv,49239.0,H49239
+M053,Ivory Coast,2026-06-25,2,2026-03-31,Scotland,1,0,international_results.csv,49288.0,H49288
+M053,Ivory Coast,2026-06-25,3,2026-06-04,France,2,1,international_results.csv,49380.0,H49380
+M053,Ivory Coast,2026-06-25,4,2026-06-15,Ecuador,1,0,tsdl_fixtures.csv,14.0,M012
+M053,Ivory Coast,2026-06-25,5,2026-06-20,Germany,1,2,tsdl_fixtures.csv,37.0,M032
+M054,Czech Republic,2026-06-25,1,2026-03-31,Denmark,2,2,international_results.csv,49315.0,H49315
+M054,Czech Republic,2026-06-25,2,2026-05-31,Kosovo,2,1,international_results.csv,49342.0,H49342
+M054,Czech Republic,2026-06-25,3,2026-06-04,Guatemala,5,1,international_results.csv,49381.0,H49381
+M054,Czech Republic,2026-06-25,4,2026-06-12,South Korea,1,2,tsdl_fixtures.csv,5.0,M003
+M054,Czech Republic,2026-06-25,5,2026-06-18,South Africa,1,1,tsdl_fixtures.csv,28.0,M024
+M054,Mexico,2026-06-25,1,2026-05-22,Ghana,2,0,international_results.csv,49324.0,H49324
+M054,Mexico,2026-06-25,2,2026-05-30,Australia,1,0,international_results.csv,49336.0,H49336
+M054,Mexico,2026-06-25,3,2026-06-04,Serbia,5,1,international_results.csv,49384.0,H49384
+M054,Mexico,2026-06-25,4,2026-06-11,South Africa,2,0,tsdl_fixtures.csv,4.0,M001
+M054,Mexico,2026-06-25,5,2026-06-19,South Korea,1,0,tsdl_fixtures.csv,31.0,M028
+M055,Ecuador,2026-06-25,1,2026-03-31,Netherlands,1,1,international_results.csv,49295.0,H49295
+M055,Ecuador,2026-06-25,2,2026-05-30,Saudi Arabia,2,1,international_results.csv,49334.0,H49334
+M055,Ecuador,2026-06-25,3,2026-06-07,Guatemala,3,0,international_results.csv,49440.0,H49440
+M055,Ecuador,2026-06-25,4,2026-06-15,Ivory Coast,0,1,tsdl_fixtures.csv,14.0,M012
+M055,Ecuador,2026-06-25,5,2026-06-21,Curacao,0,0,tsdl_fixtures.csv,38.0,M036
+M055,Germany,2026-06-25,1,2026-03-30,Ghana,2,1,international_results.csv,49264.0,H49264
+M055,Germany,2026-06-25,2,2026-05-31,Finland,4,0,international_results.csv,49343.0,H49343
+M055,Germany,2026-06-25,3,2026-06-06,USA,2,1,international_results.csv,49431.0,H49431
+M055,Germany,2026-06-25,4,2026-06-14,Curacao,7,1,tsdl_fixtures.csv,12.0,M008
+M055,Germany,2026-06-25,5,2026-06-20,Ivory Coast,2,1,tsdl_fixtures.csv,37.0,M032
+M056,South Africa,2026-06-25,1,2026-03-31,Panama,1,2,international_results.csv,49305.0,H49305
+M056,South Africa,2026-06-25,2,2026-05-29,Nicaragua,0,0,international_results.csv,49333.0,H49333
+M056,South Africa,2026-06-25,3,2026-06-06,Jamaica,1,0,international_results.csv,49425.0,H49425
+M056,South Africa,2026-06-25,4,2026-06-11,Mexico,0,2,tsdl_fixtures.csv,4.0,M001
+M056,South Africa,2026-06-25,5,2026-06-18,Czech Republic,1,1,tsdl_fixtures.csv,28.0,M024
+M056,South Korea,2026-06-25,1,2026-03-31,Austria,0,1,international_results.csv,49278.0,H49278
+M056,South Korea,2026-06-25,2,2026-05-30,Trinidad and Tobago,5,0,international_results.csv,49335.0,H49335
+M056,South Korea,2026-06-25,3,2026-06-03,El Salvador,1,0,international_results.csv,49369.0,H49369
+M056,South Korea,2026-06-25,4,2026-06-12,Czech Republic,2,1,tsdl_fixtures.csv,5.0,M003
+M056,South Korea,2026-06-25,5,2026-06-19,Mexico,0,1,tsdl_fixtures.csv,31.0,M028
+M057,Japan,2026-06-26,1,2026-03-28,Scotland,1,0,international_results.csv,49242.0,H49242
+M057,Japan,2026-06-26,2,2026-03-31,England,1,0,international_results.csv,49284.0,H49284
+M057,Japan,2026-06-26,3,2026-05-31,Iceland,1,0,international_results.csv,49348.0,H49348
+M057,Japan,2026-06-26,4,2026-06-14,Netherlands,2,2,tsdl_fixtures.csv,13.0,M010
+M057,Japan,2026-06-26,5,2026-06-21,Tunisia,4,0,tsdl_fixtures.csv,39.0,M038
+M057,Sweden,2026-06-26,1,2026-03-31,Poland,3,2,international_results.csv,49313.0,H49313
+M057,Sweden,2026-06-26,2,2026-06-01,Norway,1,3,international_results.csv,49353.0,H49353
+M057,Sweden,2026-06-26,3,2026-06-04,Greece,2,2,international_results.csv,49388.0,H49388
+M057,Sweden,2026-06-26,4,2026-06-15,Tunisia,5,1,tsdl_fixtures.csv,15.0,M015
+M057,Sweden,2026-06-26,5,2026-06-20,Netherlands,1,5,tsdl_fixtures.csv,36.0,M033
+M058,Norway,2026-06-26,1,2026-03-31,Switzerland,0,0,international_results.csv,49297.0,H49297
+M058,Norway,2026-06-26,2,2026-06-01,Sweden,3,1,international_results.csv,49353.0,H49353
+M058,Norway,2026-06-26,3,2026-06-07,Morocco,1,1,international_results.csv,49445.0,H49445
+M058,Norway,2026-06-26,4,2026-06-16,Iraq,4,1,tsdl_fixtures.csv,21.0,M018
+M058,Norway,2026-06-26,5,2026-06-23,Senegal,3,2,tsdl_fixtures.csv,46.0,M045
+M058,France,2026-06-26,1,2026-03-29,Colombia,3,1,international_results.csv,49251.0,H49251
+M058,France,2026-06-26,2,2026-06-04,Ivory Coast,1,2,international_results.csv,49380.0,H49380
+M058,France,2026-06-26,3,2026-06-08,Northern Ireland,3,1,international_results.csv,49447.0,H49447
+M058,France,2026-06-26,4,2026-06-16,Senegal,3,1,tsdl_fixtures.csv,20.0,M016
+M058,France,2026-06-26,5,2026-06-22,Iraq,3,0,tsdl_fixtures.csv,45.0,M041
+M059,Paraguay,2026-06-26,1,2026-03-27,Greece,1,0,international_results.csv,49205.0,H49205
+M059,Paraguay,2026-06-26,2,2026-03-31,Morocco,1,2,international_results.csv,49294.0,H49294
+M059,Paraguay,2026-06-26,3,2026-06-05,Nicaragua,4,0,international_results.csv,49399.0,H49399
+M059,Paraguay,2026-06-26,4,2026-06-13,USA,1,4,tsdl_fixtures.csv,7.0,M006
+M059,Paraguay,2026-06-26,5,2026-06-20,Turkey,1,0,tsdl_fixtures.csv,35.0,M034
+M059,Australia,2026-06-26,1,2026-03-31,Curacao,5,1,international_results.csv,49317.0,H49317
+M059,Australia,2026-06-26,2,2026-05-30,Mexico,0,1,international_results.csv,49336.0,H49336
+M059,Australia,2026-06-26,3,2026-06-06,Switzerland,1,1,international_results.csv,49416.0,H49416
+M059,Australia,2026-06-26,4,2026-06-14,Turkey,2,0,tsdl_fixtures.csv,11.0,M007
+M059,Australia,2026-06-26,5,2026-06-19,USA,0,2,tsdl_fixtures.csv,32.0,M030
+M060,Senegal,2026-06-26,1,2026-03-31,Gambia,3,1,international_results.csv,49302.0,H49302
+M060,Senegal,2026-06-26,2,2026-05-31,USA,2,3,international_results.csv,49347.0,H49347
+M060,Senegal,2026-06-26,3,2026-06-09,Saudi Arabia,0,0,international_results.csv,49464.0,H49464
+M060,Senegal,2026-06-26,4,2026-06-16,France,1,3,tsdl_fixtures.csv,20.0,M016
+M060,Senegal,2026-06-26,5,2026-06-23,Norway,2,3,tsdl_fixtures.csv,46.0,M045
+M060,Iraq,2026-06-26,1,2026-05-29,Andorra,1,0,international_results.csv,49330.0,H49330
+M060,Iraq,2026-06-26,2,2026-06-04,Spain,1,1,international_results.csv,49387.0,H49387
+M060,Iraq,2026-06-26,3,2026-06-09,Venezuela,0,2,international_results.csv,49472.0,H49472
+M060,Iraq,2026-06-26,4,2026-06-16,Norway,1,4,tsdl_fixtures.csv,21.0,M018
+M060,Iraq,2026-06-26,5,2026-06-22,France,0,3,tsdl_fixtures.csv,45.0,M041
+M061,Tunisia,2026-06-26,1,2026-03-31,Canada,0,0,international_results.csv,49282.0,H49282
+M061,Tunisia,2026-06-26,2,2026-06-01,Austria,0,1,international_results.csv,49349.0,H49349
+M061,Tunisia,2026-06-26,3,2026-06-06,Belgium,0,5,international_results.csv,49417.0,H49417
+M061,Tunisia,2026-06-26,4,2026-06-15,Sweden,1,5,tsdl_fixtures.csv,15.0,M015
+M061,Tunisia,2026-06-26,5,2026-06-21,Japan,0,4,tsdl_fixtures.csv,39.0,M038
+M061,Netherlands,2026-06-26,1,2026-03-31,Ecuador,1,1,international_results.csv,49295.0,H49295
+M061,Netherlands,2026-06-26,2,2026-06-03,Algeria,0,1,international_results.csv,49371.0,H49371
+M061,Netherlands,2026-06-26,3,2026-06-08,Uzbekistan,2,1,international_results.csv,49448.0,H49448
+M061,Netherlands,2026-06-26,4,2026-06-14,Japan,2,2,tsdl_fixtures.csv,13.0,M010
+M061,Netherlands,2026-06-26,5,2026-06-20,Sweden,5,1,tsdl_fixtures.csv,36.0,M033
+M062,Turkey,2026-06-26,1,2026-03-31,Kosovo,1,0,international_results.csv,49314.0,H49314
+M062,Turkey,2026-06-26,2,2026-06-01,North Macedonia,4,0,international_results.csv,49355.0,H49355
+M062,Turkey,2026-06-26,3,2026-06-06,Venezuela,2,1,international_results.csv,49434.0,H49434
+M062,Turkey,2026-06-26,4,2026-06-14,Australia,0,2,tsdl_fixtures.csv,11.0,M007
+M062,Turkey,2026-06-26,5,2026-06-20,Paraguay,0,1,tsdl_fixtures.csv,35.0,M034
+M062,USA,2026-06-26,1,2026-03-31,Portugal,0,2,international_results.csv,49308.0,H49308
+M062,USA,2026-06-26,2,2026-05-31,Senegal,3,2,international_results.csv,49347.0,H49347
+M062,USA,2026-06-26,3,2026-06-06,Germany,1,2,international_results.csv,49431.0,H49431
+M062,USA,2026-06-26,4,2026-06-13,Paraguay,4,1,tsdl_fixtures.csv,7.0,M006
+M062,USA,2026-06-26,5,2026-06-19,Australia,2,0,tsdl_fixtures.csv,32.0,M030
+M063,Cape Verde,2026-06-27,1,2026-03-30,Finland,1,1,international_results.csv,49268.0,H49268
+M063,Cape Verde,2026-06-27,2,2026-05-31,Serbia,3,0,international_results.csv,49341.0,H49341
+M063,Cape Verde,2026-06-27,3,2026-06-06,Bermuda,0,3,international_results.csv,49418.0,H49418
+M063,Cape Verde,2026-06-27,4,2026-06-15,Spain,0,0,tsdl_fixtures.csv,16.0,M014
+M063,Cape Verde,2026-06-27,5,2026-06-21,Uruguay,2,2,tsdl_fixtures.csv,42.0,M039
+M063,Saudi Arabia,2026-06-27,1,2026-05-30,Ecuador,1,2,international_results.csv,49334.0,H49334
+M063,Saudi Arabia,2026-06-27,2,2026-06-05,Puerto Rico,3,0,international_results.csv,49408.0,H49408
+M063,Saudi Arabia,2026-06-27,3,2026-06-09,Senegal,0,0,international_results.csv,49464.0,H49464
+M063,Saudi Arabia,2026-06-27,4,2026-06-15,Uruguay,1,1,tsdl_fixtures.csv,18.0,M013
+M063,Saudi Arabia,2026-06-27,5,2026-06-21,Spain,0,4,tsdl_fixtures.csv,40.0,M037
+M064,Croatia,2026-06-27,1,2026-03-31,Brazil,1,3,international_results.csv,49280.0,H49280
+M064,Croatia,2026-06-27,2,2026-06-02,Belgium,0,2,international_results.csv,49357.0,H49357
+M064,Croatia,2026-06-27,3,2026-06-07,Slovenia,2,1,international_results.csv,49439.0,H49439
+M064,Croatia,2026-06-27,4,2026-06-17,England,2,4,tsdl_fixtures.csv,25.0,M021
+M064,Croatia,2026-06-27,5,2026-06-24,Panama,1,0,tsdl_fixtures.csv,50.0,M050
+M064,Ghana,2026-06-27,1,2026-03-30,Germany,1,2,international_results.csv,49264.0,H49264
+M064,Ghana,2026-06-27,2,2026-05-22,Mexico,0,2,international_results.csv,49324.0,H49324
+M064,Ghana,2026-06-27,3,2026-06-02,Wales,1,1,international_results.csv,49361.0,H49361
+M064,Ghana,2026-06-27,4,2026-06-18,Panama,1,0,tsdl_fixtures.csv,26.0,M025
+M064,Ghana,2026-06-27,5,2026-06-23,England,0,0,tsdl_fixtures.csv,49.0,M043
+M065,Egypt,2026-06-27,1,2026-03-31,Spain,0,0,international_results.csv,49306.0,H49306
+M065,Egypt,2026-06-27,2,2026-05-28,Russia,1,0,international_results.csv,49329.0,H49329
+M065,Egypt,2026-06-27,3,2026-06-06,Brazil,1,2,international_results.csv,49420.0,H49420
+M065,Egypt,2026-06-27,4,2026-06-15,Belgium,1,1,tsdl_fixtures.csv,17.0,M011
+M065,Egypt,2026-06-27,5,2026-06-22,New Zealand,3,1,tsdl_fixtures.csv,43.0,M042
+M065,Iran,2026-06-27,1,2026-03-31,Costa Rica,5,0,international_results.csv,49283.0,H49283
+M065,Iran,2026-06-27,2,2026-05-29,Gambia,3,1,international_results.csv,49332.0,H49332
+M065,Iran,2026-06-27,3,2026-06-04,Mali,2,0,international_results.csv,49382.0,H49382
+M065,Iran,2026-06-27,4,2026-06-16,New Zealand,2,2,tsdl_fixtures.csv,19.0,M017
+M065,Iran,2026-06-27,5,2026-06-21,Belgium,0,0,tsdl_fixtures.csv,41.0,M035
+M066,New Zealand,2026-06-27,1,2026-03-30,Chile,4,1,international_results.csv,49269.0,H49269
+M066,New Zealand,2026-06-27,2,2026-06-02,Haiti,0,4,international_results.csv,49359.0,H49359
+M066,New Zealand,2026-06-27,3,2026-06-06,England,0,1,international_results.csv,49422.0,H49422
+M066,New Zealand,2026-06-27,4,2026-06-16,Iran,2,2,tsdl_fixtures.csv,19.0,M017
+M066,New Zealand,2026-06-27,5,2026-06-22,Egypt,1,3,tsdl_fixtures.csv,43.0,M042
+M066,Belgium,2026-06-27,1,2026-03-31,Mexico,1,1,international_results.csv,49292.0,H49292
+M066,Belgium,2026-06-27,2,2026-06-02,Croatia,2,0,international_results.csv,49357.0,H49357
+M066,Belgium,2026-06-27,3,2026-06-06,Tunisia,5,0,international_results.csv,49417.0,H49417
+M066,Belgium,2026-06-27,4,2026-06-15,Egypt,1,1,tsdl_fixtures.csv,17.0,M011
+M066,Belgium,2026-06-27,5,2026-06-21,Iran,0,0,tsdl_fixtures.csv,41.0,M035
+M067,Panama,2026-06-27,1,2026-05-31,Brazil,2,6,international_results.csv,49340.0,H49340
+M067,Panama,2026-06-27,2,2026-06-03,Dominican Republic,4,2,international_results.csv,49372.0,H49372
+M067,Panama,2026-06-27,3,2026-06-06,Bosnia & Herzegovina,1,1,international_results.csv,49427.0,H49427
+M067,Panama,2026-06-27,4,2026-06-18,Ghana,0,1,tsdl_fixtures.csv,26.0,M025
+M067,Panama,2026-06-27,5,2026-06-24,Croatia,0,1,tsdl_fixtures.csv,50.0,M050
+M067,England,2026-06-27,1,2026-03-31,Japan,0,1,international_results.csv,49284.0,H49284
+M067,England,2026-06-27,2,2026-06-06,New Zealand,1,0,international_results.csv,49422.0,H49422
+M067,England,2026-06-27,3,2026-06-10,Costa Rica,3,0,international_results.csv,49474.0,H49474
+M067,England,2026-06-27,4,2026-06-17,Croatia,4,2,tsdl_fixtures.csv,25.0,M021
+M067,England,2026-06-27,5,2026-06-23,Ghana,0,0,tsdl_fixtures.csv,49.0,M043
+M068,Uruguay,2026-06-27,1,2025-11-18,USA,1,5,international_results.csv,49046.0,H49046
+M068,Uruguay,2026-06-27,2,2026-03-27,England,1,1,international_results.csv,49204.0,H49204
+M068,Uruguay,2026-06-27,3,2026-03-31,Algeria,0,0,international_results.csv,49276.0,H49276
+M068,Uruguay,2026-06-27,4,2026-06-15,Saudi Arabia,1,1,tsdl_fixtures.csv,18.0,M013
+M068,Uruguay,2026-06-27,5,2026-06-21,Cape Verde,2,2,tsdl_fixtures.csv,42.0,M039
+M068,Spain,2026-06-27,1,2026-03-31,Egypt,0,0,international_results.csv,49306.0,H49306
+M068,Spain,2026-06-27,2,2026-06-04,Iraq,1,1,international_results.csv,49387.0,H49387
+M068,Spain,2026-06-27,3,2026-06-08,Peru,3,1,international_results.csv,49449.0,H49449
+M068,Spain,2026-06-27,4,2026-06-15,Cape Verde,0,0,tsdl_fixtures.csv,16.0,M014
+M068,Spain,2026-06-27,5,2026-06-21,Saudi Arabia,4,0,tsdl_fixtures.csv,40.0,M037
+M069,Algeria,2026-06-28,1,2026-03-31,Uruguay,0,0,international_results.csv,49276.0,H49276
+M069,Algeria,2026-06-28,2,2026-06-03,Netherlands,1,0,international_results.csv,49371.0,H49371
+M069,Algeria,2026-06-28,3,2026-06-10,Bolivia,4,0,international_results.csv,49473.0,H49473
+M069,Algeria,2026-06-28,4,2026-06-17,Argentina,0,3,tsdl_fixtures.csv,22.0,M019
+M069,Algeria,2026-06-28,5,2026-06-23,Jordan,2,1,tsdl_fixtures.csv,47.0,M044
+M069,Austria,2026-06-28,1,2026-03-27,Ghana,5,1,international_results.csv,49203.0,H49203
+M069,Austria,2026-06-28,2,2026-03-31,South Korea,1,0,international_results.csv,49278.0,H49278
+M069,Austria,2026-06-28,3,2026-06-01,Tunisia,1,0,international_results.csv,49349.0,H49349
+M069,Austria,2026-06-28,4,2026-06-17,Jordan,3,1,tsdl_fixtures.csv,23.0,M020
+M069,Austria,2026-06-28,5,2026-06-22,Argentina,0,2,tsdl_fixtures.csv,44.0,M040
+M070,Colombia,2026-06-28,1,2026-03-29,France,1,3,international_results.csv,49251.0,H49251
+M070,Colombia,2026-06-28,2,2026-06-01,Costa Rica,3,1,international_results.csv,49352.0,H49352
+M070,Colombia,2026-06-28,3,2026-06-07,Jordan,2,0,international_results.csv,49442.0,H49442
+M070,Colombia,2026-06-28,4,2026-06-18,Uzbekistan,3,1,tsdl_fixtures.csv,27.0,M027
+M070,Colombia,2026-06-28,5,2026-06-24,D.R. Congo,1,0,tsdl_fixtures.csv,51.0,M048
+M070,Portugal,2026-06-28,1,2026-03-31,USA,2,0,international_results.csv,49308.0,H49308
+M070,Portugal,2026-06-28,2,2026-06-06,Chile,2,1,international_results.csv,49428.0,H49428
+M070,Portugal,2026-06-28,3,2026-06-10,Nigeria,2,1,international_results.csv,49475.0,H49475
+M070,Portugal,2026-06-28,4,2026-06-17,D.R. Congo,1,1,tsdl_fixtures.csv,24.0,M022
+M070,Portugal,2026-06-28,5,2026-06-23,Uzbekistan,5,0,tsdl_fixtures.csv,48.0,M046
+M071,D.R. Congo,2026-06-28,1,2026-03-31,Jamaica,1,0,international_results.csv,49310.0,H49310
+M071,D.R. Congo,2026-06-28,2,2026-06-03,Denmark,0,0,international_results.csv,49367.0,H49367
+M071,D.R. Congo,2026-06-28,3,2026-06-09,Chile,1,2,international_results.csv,49458.0,H49458
+M071,D.R. Congo,2026-06-28,4,2026-06-17,Portugal,1,1,tsdl_fixtures.csv,24.0,M022
+M071,D.R. Congo,2026-06-28,5,2026-06-24,Colombia,0,1,tsdl_fixtures.csv,51.0,M048
+M071,Uzbekistan,2026-06-28,1,2026-03-30,Venezuela,0,0,international_results.csv,49273.0,H49273
+M071,Uzbekistan,2026-06-28,2,2026-06-01,Canada,0,2,international_results.csv,49351.0,H49351
+M071,Uzbekistan,2026-06-28,3,2026-06-08,Netherlands,1,2,international_results.csv,49448.0,H49448
+M071,Uzbekistan,2026-06-28,4,2026-06-18,Colombia,1,3,tsdl_fixtures.csv,27.0,M027
+M071,Uzbekistan,2026-06-28,5,2026-06-23,Portugal,0,5,tsdl_fixtures.csv,48.0,M046
+M072,Jordan,2026-06-28,1,2026-03-31,Nigeria,2,2,international_results.csv,49289.0,H49289
+M072,Jordan,2026-06-28,2,2026-05-31,Switzerland,1,4,international_results.csv,49346.0,H49346
+M072,Jordan,2026-06-28,3,2026-06-07,Colombia,0,2,international_results.csv,49442.0,H49442
+M072,Jordan,2026-06-28,4,2026-06-17,Austria,1,3,tsdl_fixtures.csv,23.0,M020
+M072,Jordan,2026-06-28,5,2026-06-23,Algeria,1,2,tsdl_fixtures.csv,47.0,M044
+M072,Argentina,2026-06-28,1,2026-03-31,Zambia,5,0,international_results.csv,49277.0,H49277
+M072,Argentina,2026-06-28,2,2026-06-06,Honduras,2,0,international_results.csv,49414.0,H49414
+M072,Argentina,2026-06-28,3,2026-06-09,Iceland,3,0,international_results.csv,49452.0,H49452
+M072,Argentina,2026-06-28,4,2026-06-17,Algeria,3,0,tsdl_fixtures.csv,22.0,M019
+M072,Argentina,2026-06-28,5,2026-06-22,Austria,2,0,tsdl_fixtures.csv,44.0,M040
+M073,South Africa,2026-06-28,1,2026-05-29,Nicaragua,0,0,international_results.csv,49333.0,H49333
+M073,South Africa,2026-06-28,2,2026-06-06,Jamaica,1,0,international_results.csv,49425.0,H49425
+M073,South Africa,2026-06-28,3,2026-06-11,Mexico,0,2,tsdl_fixtures.csv,4.0,M001
+M073,South Africa,2026-06-28,4,2026-06-18,Czech Republic,1,1,tsdl_fixtures.csv,28.0,M024
+M073,South Africa,2026-06-28,5,2026-06-25,South Korea,1,0,tsdl_fixtures.csv,57.0,M056
+M073,Canada,2026-06-28,1,2026-06-01,Uzbekistan,2,0,international_results.csv,49351.0,H49351
+M073,Canada,2026-06-28,2,2026-06-05,Republic of Ireland,1,1,international_results.csv,49392.0,H49392
+M073,Canada,2026-06-28,3,2026-06-12,Bosnia & Herzegovina,1,1,tsdl_fixtures.csv,6.0,M002
+M073,Canada,2026-06-28,4,2026-06-18,Qatar,6,0,tsdl_fixtures.csv,30.0,M023
+M073,Canada,2026-06-28,5,2026-06-24,Switzerland,1,2,tsdl_fixtures.csv,53.0,M052
+M074,Brazil,2026-06-29,1,2026-05-31,Panama,6,2,international_results.csv,49340.0,H49340
+M074,Brazil,2026-06-29,2,2026-06-06,Egypt,2,1,international_results.csv,49420.0,H49420
+M074,Brazil,2026-06-29,3,2026-06-13,Morocco,1,1,tsdl_fixtures.csv,9.0,M004
+M074,Brazil,2026-06-29,4,2026-06-20,Haiti,3,0,tsdl_fixtures.csv,34.0,M031
+M074,Brazil,2026-06-29,5,2026-06-24,Scotland,3,0,tsdl_fixtures.csv,55.0,M051
+M074,Japan,2026-06-29,1,2026-03-31,England,1,0,international_results.csv,49284.0,H49284
+M074,Japan,2026-06-29,2,2026-05-31,Iceland,1,0,international_results.csv,49348.0,H49348
+M074,Japan,2026-06-29,3,2026-06-14,Netherlands,2,2,tsdl_fixtures.csv,13.0,M010
+M074,Japan,2026-06-29,4,2026-06-21,Tunisia,4,0,tsdl_fixtures.csv,39.0,M038
+M074,Japan,2026-06-29,5,2026-06-26,Sweden,1,1,tsdl_fixtures.csv,60.0,M057
+M075,Germany,2026-06-29,1,2026-05-31,Finland,4,0,international_results.csv,49343.0,H49343
+M075,Germany,2026-06-29,2,2026-06-06,USA,2,1,international_results.csv,49431.0,H49431
+M075,Germany,2026-06-29,3,2026-06-14,Curacao,7,1,tsdl_fixtures.csv,12.0,M008
+M075,Germany,2026-06-29,4,2026-06-20,Ivory Coast,2,1,tsdl_fixtures.csv,37.0,M032
+M075,Germany,2026-06-29,5,2026-06-25,Ecuador,1,2,tsdl_fixtures.csv,59.0,M055
+M075,Paraguay,2026-06-29,1,2026-03-31,Morocco,1,2,international_results.csv,49294.0,H49294
+M075,Paraguay,2026-06-29,2,2026-06-05,Nicaragua,4,0,international_results.csv,49399.0,H49399
+M075,Paraguay,2026-06-29,3,2026-06-13,USA,1,4,tsdl_fixtures.csv,7.0,M006
+M075,Paraguay,2026-06-29,4,2026-06-20,Turkey,1,0,tsdl_fixtures.csv,35.0,M034
+M075,Paraguay,2026-06-29,5,2026-06-26,Australia,0,0,tsdl_fixtures.csv,62.0,M059
+M076,Netherlands,2026-06-29,1,2026-06-03,Algeria,0,1,international_results.csv,49371.0,H49371
+M076,Netherlands,2026-06-29,2,2026-06-08,Uzbekistan,2,1,international_results.csv,49448.0,H49448
+M076,Netherlands,2026-06-29,3,2026-06-14,Japan,2,2,tsdl_fixtures.csv,13.0,M010
+M076,Netherlands,2026-06-29,4,2026-06-20,Sweden,5,1,tsdl_fixtures.csv,36.0,M033
+M076,Netherlands,2026-06-29,5,2026-06-26,Tunisia,3,1,tsdl_fixtures.csv,61.0,M061
+M076,Morocco,2026-06-29,1,2026-06-02,Madagascar,4,0,international_results.csv,49360.0,H49360
+M076,Morocco,2026-06-29,2,2026-06-07,Norway,1,1,international_results.csv,49445.0,H49445
+M076,Morocco,2026-06-29,3,2026-06-13,Brazil,1,1,tsdl_fixtures.csv,9.0,M004
+M076,Morocco,2026-06-29,4,2026-06-19,Scotland,1,0,tsdl_fixtures.csv,33.0,M029
+M076,Morocco,2026-06-29,5,2026-06-24,Haiti,4,2,tsdl_fixtures.csv,54.0,M049
+M077,France,2026-06-30,1,2026-06-04,Ivory Coast,1,2,international_results.csv,49380.0,H49380
+M077,France,2026-06-30,2,2026-06-08,Northern Ireland,3,1,international_results.csv,49447.0,H49447
+M077,France,2026-06-30,3,2026-06-16,Senegal,3,1,tsdl_fixtures.csv,20.0,M016
+M077,France,2026-06-30,4,2026-06-22,Iraq,3,0,tsdl_fixtures.csv,45.0,M041
+M077,France,2026-06-30,5,2026-06-26,Norway,4,1,tsdl_fixtures.csv,64.0,M058
+M077,Sweden,2026-06-30,1,2026-06-01,Norway,1,3,international_results.csv,49353.0,H49353
+M077,Sweden,2026-06-30,2,2026-06-04,Greece,2,2,international_results.csv,49388.0,H49388
+M077,Sweden,2026-06-30,3,2026-06-15,Tunisia,5,1,tsdl_fixtures.csv,15.0,M015
+M077,Sweden,2026-06-30,4,2026-06-20,Netherlands,1,5,tsdl_fixtures.csv,36.0,M033
+M077,Sweden,2026-06-30,5,2026-06-26,Japan,1,1,tsdl_fixtures.csv,60.0,M057
+M078,Ivory Coast,2026-06-30,1,2026-03-31,Scotland,1,0,international_results.csv,49288.0,H49288
+M078,Ivory Coast,2026-06-30,2,2026-06-04,France,2,1,international_results.csv,49380.0,H49380
+M078,Ivory Coast,2026-06-30,3,2026-06-15,Ecuador,1,0,tsdl_fixtures.csv,14.0,M012
+M078,Ivory Coast,2026-06-30,4,2026-06-20,Germany,1,2,tsdl_fixtures.csv,37.0,M032
+M078,Ivory Coast,2026-06-30,5,2026-06-25,Curacao,2,0,tsdl_fixtures.csv,58.0,M053
+M078,Norway,2026-06-30,1,2026-06-01,Sweden,3,1,international_results.csv,49353.0,H49353
+M078,Norway,2026-06-30,2,2026-06-07,Morocco,1,1,international_results.csv,49445.0,H49445
+M078,Norway,2026-06-30,3,2026-06-16,Iraq,4,1,tsdl_fixtures.csv,21.0,M018
+M078,Norway,2026-06-30,4,2026-06-23,Senegal,3,2,tsdl_fixtures.csv,46.0,M045
+M078,Norway,2026-06-30,5,2026-06-26,France,1,4,tsdl_fixtures.csv,64.0,M058
+M079,Mexico,2026-06-30,1,2026-05-30,Australia,1,0,international_results.csv,49336.0,H49336
+M079,Mexico,2026-06-30,2,2026-06-04,Serbia,5,1,international_results.csv,49384.0,H49384
+M079,Mexico,2026-06-30,3,2026-06-11,South Africa,2,0,tsdl_fixtures.csv,4.0,M001
+M079,Mexico,2026-06-30,4,2026-06-19,South Korea,1,0,tsdl_fixtures.csv,31.0,M028
+M079,Mexico,2026-06-30,5,2026-06-25,Czech Republic,3,0,tsdl_fixtures.csv,56.0,M054
+M079,Ecuador,2026-06-30,1,2026-05-30,Saudi Arabia,2,1,international_results.csv,49334.0,H49334
+M079,Ecuador,2026-06-30,2,2026-06-07,Guatemala,3,0,international_results.csv,49440.0,H49440
+M079,Ecuador,2026-06-30,3,2026-06-15,Ivory Coast,0,1,tsdl_fixtures.csv,14.0,M012
+M079,Ecuador,2026-06-30,4,2026-06-21,Curacao,0,0,tsdl_fixtures.csv,38.0,M036
+M079,Ecuador,2026-06-30,5,2026-06-25,Germany,2,1,tsdl_fixtures.csv,59.0,M055
+M080,Belgium,2026-07-01,1,2026-06-02,Croatia,2,0,international_results.csv,49357.0,H49357
+M080,Belgium,2026-07-01,2,2026-06-06,Tunisia,5,0,international_results.csv,49417.0,H49417
+M080,Belgium,2026-07-01,3,2026-06-15,Egypt,1,1,tsdl_fixtures.csv,17.0,M011
+M080,Belgium,2026-07-01,4,2026-06-21,Iran,0,0,tsdl_fixtures.csv,41.0,M035
+M080,Belgium,2026-07-01,5,2026-06-27,New Zealand,5,1,tsdl_fixtures.csv,69.0,M066
+M080,Senegal,2026-07-01,1,2026-05-31,USA,2,3,international_results.csv,49347.0,H49347
+M080,Senegal,2026-07-01,2,2026-06-09,Saudi Arabia,0,0,international_results.csv,49464.0,H49464
+M080,Senegal,2026-07-01,3,2026-06-16,France,1,3,tsdl_fixtures.csv,20.0,M016
+M080,Senegal,2026-07-01,4,2026-06-23,Norway,2,3,tsdl_fixtures.csv,46.0,M045
+M080,Senegal,2026-07-01,5,2026-06-26,Iraq,5,0,tsdl_fixtures.csv,65.0,M060
+M081,England,2026-07-01,1,2026-06-06,New Zealand,1,0,international_results.csv,49422.0,H49422
+M081,England,2026-07-01,2,2026-06-10,Costa Rica,3,0,international_results.csv,49474.0,H49474
+M081,England,2026-07-01,3,2026-06-17,Croatia,4,2,tsdl_fixtures.csv,25.0,M021
+M081,England,2026-07-01,4,2026-06-23,Ghana,0,0,tsdl_fixtures.csv,49.0,M043
+M081,England,2026-07-01,5,2026-06-27,Panama,2,0,tsdl_fixtures.csv,71.0,M067
+M081,D.R. Congo,2026-07-01,1,2026-06-03,Denmark,0,0,international_results.csv,49367.0,H49367
+M081,D.R. Congo,2026-07-01,2,2026-06-09,Chile,1,2,international_results.csv,49458.0,H49458
+M081,D.R. Congo,2026-07-01,3,2026-06-17,Portugal,1,1,tsdl_fixtures.csv,24.0,M022
+M081,D.R. Congo,2026-07-01,4,2026-06-24,Colombia,0,1,tsdl_fixtures.csv,51.0,M048
+M081,D.R. Congo,2026-07-01,5,2026-06-28,Uzbekistan,3,1,tsdl_fixtures.csv,73.0,M071
+M082,USA,2026-07-01,1,2026-05-31,Senegal,3,2,international_results.csv,49347.0,H49347
+M082,USA,2026-07-01,2,2026-06-06,Germany,1,2,international_results.csv,49431.0,H49431
+M082,USA,2026-07-01,3,2026-06-13,Paraguay,4,1,tsdl_fixtures.csv,7.0,M006
+M082,USA,2026-07-01,4,2026-06-19,Australia,2,0,tsdl_fixtures.csv,32.0,M030
+M082,USA,2026-07-01,5,2026-06-26,Turkey,2,3,tsdl_fixtures.csv,63.0,M062
+M082,Bosnia & Herzegovina,2026-07-01,1,2026-05-29,North Macedonia,0,0,international_results.csv,49331.0,H49331
+M082,Bosnia & Herzegovina,2026-07-01,2,2026-06-06,Panama,1,1,international_results.csv,49427.0,H49427
+M082,Bosnia & Herzegovina,2026-07-01,3,2026-06-12,Canada,1,1,tsdl_fixtures.csv,6.0,M002
+M082,Bosnia & Herzegovina,2026-07-01,4,2026-06-18,Switzerland,1,4,tsdl_fixtures.csv,29.0,M026
+M082,Bosnia & Herzegovina,2026-07-01,5,2026-06-24,Qatar,3,1,tsdl_fixtures.csv,52.0,M047
+M083,Portugal,2026-07-02,1,2026-06-06,Chile,2,1,international_results.csv,49428.0,H49428
+M083,Portugal,2026-07-02,2,2026-06-10,Nigeria,2,1,international_results.csv,49475.0,H49475
+M083,Portugal,2026-07-02,3,2026-06-17,D.R. Congo,1,1,tsdl_fixtures.csv,24.0,M022
+M083,Portugal,2026-07-02,4,2026-06-23,Uzbekistan,5,0,tsdl_fixtures.csv,48.0,M046
+M083,Portugal,2026-07-02,5,2026-06-28,Colombia,0,0,tsdl_fixtures.csv,72.0,M070
+M083,Croatia,2026-07-02,1,2026-06-02,Belgium,0,2,international_results.csv,49357.0,H49357
+M083,Croatia,2026-07-02,2,2026-06-07,Slovenia,2,1,international_results.csv,49439.0,H49439
+M083,Croatia,2026-07-02,3,2026-06-17,England,2,4,tsdl_fixtures.csv,25.0,M021
+M083,Croatia,2026-07-02,4,2026-06-24,Panama,1,0,tsdl_fixtures.csv,50.0,M050
+M083,Croatia,2026-07-02,5,2026-06-27,Ghana,2,1,tsdl_fixtures.csv,70.0,M064
+M084,Spain,2026-07-02,1,2026-06-04,Iraq,1,1,international_results.csv,49387.0,H49387
+M084,Spain,2026-07-02,2,2026-06-08,Peru,3,1,international_results.csv,49449.0,H49449
+M084,Spain,2026-07-02,3,2026-06-15,Cape Verde,0,0,tsdl_fixtures.csv,16.0,M014
+M084,Spain,2026-07-02,4,2026-06-21,Saudi Arabia,4,0,tsdl_fixtures.csv,40.0,M037
+M084,Spain,2026-07-02,5,2026-06-27,Uruguay,1,0,tsdl_fixtures.csv,67.0,M068
+M084,Austria,2026-07-02,1,2026-03-31,South Korea,1,0,international_results.csv,49278.0,H49278
+M084,Austria,2026-07-02,2,2026-06-01,Tunisia,1,0,international_results.csv,49349.0,H49349
+M084,Austria,2026-07-02,3,2026-06-17,Jordan,3,1,tsdl_fixtures.csv,23.0,M020
+M084,Austria,2026-07-02,4,2026-06-22,Argentina,0,2,tsdl_fixtures.csv,44.0,M040
+M084,Austria,2026-07-02,5,2026-06-28,Algeria,3,3,tsdl_fixtures.csv,74.0,M069
+M085,Switzerland,2026-07-02,1,2026-05-31,Jordan,4,1,international_results.csv,49346.0,H49346
+M085,Switzerland,2026-07-02,2,2026-06-06,Australia,1,1,international_results.csv,49416.0,H49416
+M085,Switzerland,2026-07-02,3,2026-06-13,Qatar,1,1,tsdl_fixtures.csv,8.0,M005
+M085,Switzerland,2026-07-02,4,2026-06-18,Bosnia & Herzegovina,4,1,tsdl_fixtures.csv,29.0,M026
+M085,Switzerland,2026-07-02,5,2026-06-24,Canada,2,1,tsdl_fixtures.csv,53.0,M052
+M085,Algeria,2026-07-02,1,2026-06-03,Netherlands,1,0,international_results.csv,49371.0,H49371
+M085,Algeria,2026-07-02,2,2026-06-10,Bolivia,4,0,international_results.csv,49473.0,H49473
+M085,Algeria,2026-07-02,3,2026-06-17,Argentina,0,3,tsdl_fixtures.csv,22.0,M019
+M085,Algeria,2026-07-02,4,2026-06-23,Jordan,2,1,tsdl_fixtures.csv,47.0,M044
+M085,Algeria,2026-07-02,5,2026-06-28,Austria,3,3,tsdl_fixtures.csv,74.0,M069
+M086,Argentina,2026-07-03,1,2026-06-06,Honduras,2,0,international_results.csv,49414.0,H49414
+M086,Argentina,2026-07-03,2,2026-06-09,Iceland,3,0,international_results.csv,49452.0,H49452
+M086,Argentina,2026-07-03,3,2026-06-17,Algeria,3,0,tsdl_fixtures.csv,22.0,M019
+M086,Argentina,2026-07-03,4,2026-06-22,Austria,2,0,tsdl_fixtures.csv,44.0,M040
+M086,Argentina,2026-07-03,5,2026-06-28,Jordan,3,1,tsdl_fixtures.csv,75.0,M072
+M086,Cape Verde,2026-07-03,1,2026-05-31,Serbia,3,0,international_results.csv,49341.0,H49341
+M086,Cape Verde,2026-07-03,2,2026-06-06,Bermuda,0,3,international_results.csv,49418.0,H49418
+M086,Cape Verde,2026-07-03,3,2026-06-15,Spain,0,0,tsdl_fixtures.csv,16.0,M014
+M086,Cape Verde,2026-07-03,4,2026-06-21,Uruguay,2,2,tsdl_fixtures.csv,42.0,M039
+M086,Cape Verde,2026-07-03,5,2026-06-27,Saudi Arabia,0,0,tsdl_fixtures.csv,66.0,M063
+M087,Australia,2026-07-03,1,2026-05-30,Mexico,0,1,international_results.csv,49336.0,H49336
+M087,Australia,2026-07-03,2,2026-06-06,Switzerland,1,1,international_results.csv,49416.0,H49416
+M087,Australia,2026-07-03,3,2026-06-14,Turkey,2,0,tsdl_fixtures.csv,11.0,M007
+M087,Australia,2026-07-03,4,2026-06-19,USA,0,2,tsdl_fixtures.csv,32.0,M030
+M087,Australia,2026-07-03,5,2026-06-26,Paraguay,0,0,tsdl_fixtures.csv,62.0,M059
+M087,Egypt,2026-07-03,1,2026-05-28,Russia,1,0,international_results.csv,49329.0,H49329
+M087,Egypt,2026-07-03,2,2026-06-06,Brazil,1,2,international_results.csv,49420.0,H49420
+M087,Egypt,2026-07-03,3,2026-06-15,Belgium,1,1,tsdl_fixtures.csv,17.0,M011
+M087,Egypt,2026-07-03,4,2026-06-22,New Zealand,3,1,tsdl_fixtures.csv,43.0,M042
+M087,Egypt,2026-07-03,5,2026-06-27,Iran,1,1,tsdl_fixtures.csv,68.0,M065
+M088,Colombia,2026-07-03,1,2026-06-01,Costa Rica,3,1,international_results.csv,49352.0,H49352
+M088,Colombia,2026-07-03,2,2026-06-07,Jordan,2,0,international_results.csv,49442.0,H49442
+M088,Colombia,2026-07-03,3,2026-06-18,Uzbekistan,3,1,tsdl_fixtures.csv,27.0,M027
+M088,Colombia,2026-07-03,4,2026-06-24,D.R. Congo,1,0,tsdl_fixtures.csv,51.0,M048
+M088,Colombia,2026-07-03,5,2026-06-28,Portugal,0,0,tsdl_fixtures.csv,72.0,M070
+M088,Ghana,2026-07-03,1,2026-05-22,Mexico,0,2,international_results.csv,49324.0,H49324
+M088,Ghana,2026-07-03,2,2026-06-02,Wales,1,1,international_results.csv,49361.0,H49361
+M088,Ghana,2026-07-03,3,2026-06-18,Panama,1,0,tsdl_fixtures.csv,26.0,M025
+M088,Ghana,2026-07-03,4,2026-06-23,England,0,0,tsdl_fixtures.csv,49.0,M043
+M088,Ghana,2026-07-03,5,2026-06-27,Croatia,1,2,tsdl_fixtures.csv,70.0,M064
+M089,Canada,2026-07-04,1,2026-06-05,Republic of Ireland,1,1,international_results.csv,49392.0,H49392
+M089,Canada,2026-07-04,2,2026-06-12,Bosnia & Herzegovina,1,1,tsdl_fixtures.csv,6.0,M002
+M089,Canada,2026-07-04,3,2026-06-18,Qatar,6,0,tsdl_fixtures.csv,30.0,M023
+M089,Canada,2026-07-04,4,2026-06-24,Switzerland,1,2,tsdl_fixtures.csv,53.0,M052
+M089,Canada,2026-07-04,5,2026-06-28,South Africa,1,0,tsdl_fixtures.csv,79.0,M073
+M089,Morocco,2026-07-04,1,2026-06-07,Norway,1,1,international_results.csv,49445.0,H49445
+M089,Morocco,2026-07-04,2,2026-06-13,Brazil,1,1,tsdl_fixtures.csv,9.0,M004
+M089,Morocco,2026-07-04,3,2026-06-19,Scotland,1,0,tsdl_fixtures.csv,33.0,M029
+M089,Morocco,2026-07-04,4,2026-06-24,Haiti,4,2,tsdl_fixtures.csv,54.0,M049
+M089,Morocco,2026-07-04,5,2026-06-29,Netherlands,1,1,tsdl_fixtures.csv,82.0,M076
+M090,Paraguay,2026-07-04,1,2026-06-05,Nicaragua,4,0,international_results.csv,49399.0,H49399
+M090,Paraguay,2026-07-04,2,2026-06-13,USA,1,4,tsdl_fixtures.csv,7.0,M006
+M090,Paraguay,2026-07-04,3,2026-06-20,Turkey,1,0,tsdl_fixtures.csv,35.0,M034
+M090,Paraguay,2026-07-04,4,2026-06-26,Australia,0,0,tsdl_fixtures.csv,62.0,M059
+M090,Paraguay,2026-07-04,5,2026-06-29,Germany,1,1,tsdl_fixtures.csv,81.0,M075
+M090,France,2026-07-04,1,2026-06-08,Northern Ireland,3,1,international_results.csv,49447.0,H49447
+M090,France,2026-07-04,2,2026-06-16,Senegal,3,1,tsdl_fixtures.csv,20.0,M016
+M090,France,2026-07-04,3,2026-06-22,Iraq,3,0,tsdl_fixtures.csv,45.0,M041
+M090,France,2026-07-04,4,2026-06-26,Norway,4,1,tsdl_fixtures.csv,64.0,M058
+M090,France,2026-07-04,5,2026-06-30,Sweden,3,0,tsdl_fixtures.csv,84.0,M077
+M091,Brazil,2026-07-05,1,2026-06-06,Egypt,2,1,international_results.csv,49420.0,H49420
+M091,Brazil,2026-07-05,2,2026-06-13,Morocco,1,1,tsdl_fixtures.csv,9.0,M004
+M091,Brazil,2026-07-05,3,2026-06-20,Haiti,3,0,tsdl_fixtures.csv,34.0,M031
+M091,Brazil,2026-07-05,4,2026-06-24,Scotland,3,0,tsdl_fixtures.csv,55.0,M051
+M091,Brazil,2026-07-05,5,2026-06-29,Japan,2,1,tsdl_fixtures.csv,80.0,M074
+M091,Norway,2026-07-05,1,2026-06-07,Morocco,1,1,international_results.csv,49445.0,H49445
+M091,Norway,2026-07-05,2,2026-06-16,Iraq,4,1,tsdl_fixtures.csv,21.0,M018
+M091,Norway,2026-07-05,3,2026-06-23,Senegal,3,2,tsdl_fixtures.csv,46.0,M045
+M091,Norway,2026-07-05,4,2026-06-26,France,1,4,tsdl_fixtures.csv,64.0,M058
+M091,Norway,2026-07-05,5,2026-06-30,Ivory Coast,2,1,tsdl_fixtures.csv,83.0,M078
+M092,Mexico,2026-07-05,1,2026-06-04,Serbia,5,1,international_results.csv,49384.0,H49384
+M092,Mexico,2026-07-05,2,2026-06-11,South Africa,2,0,tsdl_fixtures.csv,4.0,M001
+M092,Mexico,2026-07-05,3,2026-06-19,South Korea,1,0,tsdl_fixtures.csv,31.0,M028
+M092,Mexico,2026-07-05,4,2026-06-25,Czech Republic,3,0,tsdl_fixtures.csv,56.0,M054
+M092,Mexico,2026-07-05,5,2026-06-30,Ecuador,2,0,tsdl_fixtures.csv,85.0,M079
+M092,England,2026-07-05,1,2026-06-10,Costa Rica,3,0,international_results.csv,49474.0,H49474
+M092,England,2026-07-05,2,2026-06-17,Croatia,4,2,tsdl_fixtures.csv,25.0,M021
+M092,England,2026-07-05,3,2026-06-23,Ghana,0,0,tsdl_fixtures.csv,49.0,M043
+M092,England,2026-07-05,4,2026-06-27,Panama,2,0,tsdl_fixtures.csv,71.0,M067
+M092,England,2026-07-05,5,2026-07-01,D.R. Congo,2,1,tsdl_fixtures.csv,86.0,M081
+M093,Portugal,2026-07-06,1,2026-06-10,Nigeria,2,1,international_results.csv,49475.0,H49475
+M093,Portugal,2026-07-06,2,2026-06-17,D.R. Congo,1,1,tsdl_fixtures.csv,24.0,M022
+M093,Portugal,2026-07-06,3,2026-06-23,Uzbekistan,5,0,tsdl_fixtures.csv,48.0,M046
+M093,Portugal,2026-07-06,4,2026-06-28,Colombia,0,0,tsdl_fixtures.csv,72.0,M070
+M093,Portugal,2026-07-06,5,2026-07-02,Croatia,2,1,tsdl_fixtures.csv,90.0,M083
+M093,Spain,2026-07-06,1,2026-06-08,Peru,3,1,international_results.csv,49449.0,H49449
+M093,Spain,2026-07-06,2,2026-06-15,Cape Verde,0,0,tsdl_fixtures.csv,16.0,M014
+M093,Spain,2026-07-06,3,2026-06-21,Saudi Arabia,4,0,tsdl_fixtures.csv,40.0,M037
+M093,Spain,2026-07-06,4,2026-06-27,Uruguay,1,0,tsdl_fixtures.csv,67.0,M068
+M093,Spain,2026-07-06,5,2026-07-02,Austria,3,0,tsdl_fixtures.csv,89.0,M084
+M094,USA,2026-07-06,1,2026-06-06,Germany,1,2,international_results.csv,49431.0,H49431
+M094,USA,2026-07-06,2,2026-06-13,Paraguay,4,1,tsdl_fixtures.csv,7.0,M006
+M094,USA,2026-07-06,3,2026-06-19,Australia,2,0,tsdl_fixtures.csv,32.0,M030
+M094,USA,2026-07-06,4,2026-06-26,Turkey,2,3,tsdl_fixtures.csv,63.0,M062
+M094,USA,2026-07-06,5,2026-07-01,Bosnia & Herzegovina,2,0,tsdl_fixtures.csv,88.0,M082
+M094,Belgium,2026-07-06,1,2026-06-06,Tunisia,5,0,international_results.csv,49417.0,H49417
+M094,Belgium,2026-07-06,2,2026-06-15,Egypt,1,1,tsdl_fixtures.csv,17.0,M011
+M094,Belgium,2026-07-06,3,2026-06-21,Iran,0,0,tsdl_fixtures.csv,41.0,M035
+M094,Belgium,2026-07-06,4,2026-06-27,New Zealand,5,1,tsdl_fixtures.csv,69.0,M066
+M094,Belgium,2026-07-06,5,2026-07-01,Senegal,3,2,tsdl_fixtures.csv,87.0,M080
+M095,Argentina,2026-07-07,1,2026-06-09,Iceland,3,0,international_results.csv,49452.0,H49452
+M095,Argentina,2026-07-07,2,2026-06-17,Algeria,3,0,tsdl_fixtures.csv,22.0,M019
+M095,Argentina,2026-07-07,3,2026-06-22,Austria,2,0,tsdl_fixtures.csv,44.0,M040
+M095,Argentina,2026-07-07,4,2026-06-28,Jordan,3,1,tsdl_fixtures.csv,75.0,M072
+M095,Argentina,2026-07-07,5,2026-07-03,Cape Verde,3,2,tsdl_fixtures.csv,93.0,M086
+M095,Egypt,2026-07-07,1,2026-06-06,Brazil,1,2,international_results.csv,49420.0,H49420
+M095,Egypt,2026-07-07,2,2026-06-15,Belgium,1,1,tsdl_fixtures.csv,17.0,M011
+M095,Egypt,2026-07-07,3,2026-06-22,New Zealand,3,1,tsdl_fixtures.csv,43.0,M042
+M095,Egypt,2026-07-07,4,2026-06-27,Iran,1,1,tsdl_fixtures.csv,68.0,M065
+M095,Egypt,2026-07-07,5,2026-07-03,Australia,1,1,tsdl_fixtures.csv,92.0,M087
+M096,Switzerland,2026-07-07,1,2026-06-06,Australia,1,1,international_results.csv,49416.0,H49416
+M096,Switzerland,2026-07-07,2,2026-06-13,Qatar,1,1,tsdl_fixtures.csv,8.0,M005
+M096,Switzerland,2026-07-07,3,2026-06-18,Bosnia & Herzegovina,4,1,tsdl_fixtures.csv,29.0,M026
+M096,Switzerland,2026-07-07,4,2026-06-24,Canada,2,1,tsdl_fixtures.csv,53.0,M052
+M096,Switzerland,2026-07-07,5,2026-07-02,Algeria,2,0,tsdl_fixtures.csv,91.0,M085
+M096,Colombia,2026-07-07,1,2026-06-07,Jordan,2,0,international_results.csv,49442.0,H49442
+M096,Colombia,2026-07-07,2,2026-06-18,Uzbekistan,3,1,tsdl_fixtures.csv,27.0,M027
+M096,Colombia,2026-07-07,3,2026-06-24,D.R. Congo,1,0,tsdl_fixtures.csv,51.0,M048
+M096,Colombia,2026-07-07,4,2026-06-28,Portugal,0,0,tsdl_fixtures.csv,72.0,M070
+M096,Colombia,2026-07-07,5,2026-07-03,Ghana,1,0,tsdl_fixtures.csv,94.0,M088
+M097,France,2026-07-09,1,2026-06-16,Senegal,3,1,tsdl_fixtures.csv,20.0,M016
+M097,France,2026-07-09,2,2026-06-22,Iraq,3,0,tsdl_fixtures.csv,45.0,M041
+M097,France,2026-07-09,3,2026-06-26,Norway,4,1,tsdl_fixtures.csv,64.0,M058
+M097,France,2026-07-09,4,2026-06-30,Sweden,3,0,tsdl_fixtures.csv,84.0,M077
+M097,France,2026-07-09,5,2026-07-04,Paraguay,1,0,tsdl_fixtures.csv,99.0,M090
+M097,Morocco,2026-07-09,1,2026-06-13,Brazil,1,1,tsdl_fixtures.csv,9.0,M004
+M097,Morocco,2026-07-09,2,2026-06-19,Scotland,1,0,tsdl_fixtures.csv,33.0,M029
+M097,Morocco,2026-07-09,3,2026-06-24,Haiti,4,2,tsdl_fixtures.csv,54.0,M049
+M097,Morocco,2026-07-09,4,2026-06-29,Netherlands,1,1,tsdl_fixtures.csv,82.0,M076
+M097,Morocco,2026-07-09,5,2026-07-04,Canada,3,0,tsdl_fixtures.csv,98.0,M089
+M098,Spain,2026-07-10,1,2026-06-15,Cape Verde,0,0,tsdl_fixtures.csv,16.0,M014
+M098,Spain,2026-07-10,2,2026-06-21,Saudi Arabia,4,0,tsdl_fixtures.csv,40.0,M037
+M098,Spain,2026-07-10,3,2026-06-27,Uruguay,1,0,tsdl_fixtures.csv,67.0,M068
+M098,Spain,2026-07-10,4,2026-07-02,Austria,3,0,tsdl_fixtures.csv,89.0,M084
+M098,Spain,2026-07-10,5,2026-07-06,Portugal,1,0,tsdl_fixtures.csv,102.0,M093
+M098,Belgium,2026-07-10,1,2026-06-15,Egypt,1,1,tsdl_fixtures.csv,17.0,M011
+M098,Belgium,2026-07-10,2,2026-06-21,Iran,0,0,tsdl_fixtures.csv,41.0,M035
+M098,Belgium,2026-07-10,3,2026-06-27,New Zealand,5,1,tsdl_fixtures.csv,69.0,M066
+M098,Belgium,2026-07-10,4,2026-07-01,Senegal,3,2,tsdl_fixtures.csv,87.0,M080
+M098,Belgium,2026-07-10,5,2026-07-06,USA,4,1,tsdl_fixtures.csv,103.0,M094
+M099,Argentina,2026-07-11,1,2026-06-17,Algeria,3,0,tsdl_fixtures.csv,22.0,M019
+M099,Argentina,2026-07-11,2,2026-06-22,Austria,2,0,tsdl_fixtures.csv,44.0,M040
+M099,Argentina,2026-07-11,3,2026-06-28,Jordan,3,1,tsdl_fixtures.csv,75.0,M072
+M099,Argentina,2026-07-11,4,2026-07-03,Cape Verde,3,2,tsdl_fixtures.csv,93.0,M086
+M099,Argentina,2026-07-11,5,2026-07-07,Egypt,3,2,tsdl_fixtures.csv,104.0,M095
+M099,Switzerland,2026-07-11,1,2026-06-13,Qatar,1,1,tsdl_fixtures.csv,8.0,M005
+M099,Switzerland,2026-07-11,2,2026-06-18,Bosnia & Herzegovina,4,1,tsdl_fixtures.csv,29.0,M026
+M099,Switzerland,2026-07-11,3,2026-06-24,Canada,2,1,tsdl_fixtures.csv,53.0,M052
+M099,Switzerland,2026-07-11,4,2026-07-02,Algeria,2,0,tsdl_fixtures.csv,91.0,M085
+M099,Switzerland,2026-07-11,5,2026-07-07,Colombia,0,0,tsdl_fixtures.csv,105.0,M096
+M100,Norway,2026-07-11,1,2026-06-16,Iraq,4,1,tsdl_fixtures.csv,21.0,M018
+M100,Norway,2026-07-11,2,2026-06-23,Senegal,3,2,tsdl_fixtures.csv,46.0,M045
+M100,Norway,2026-07-11,3,2026-06-26,France,1,4,tsdl_fixtures.csv,64.0,M058
+M100,Norway,2026-07-11,4,2026-06-30,Ivory Coast,2,1,tsdl_fixtures.csv,83.0,M078
+M100,Norway,2026-07-11,5,2026-07-05,Brazil,2,1,tsdl_fixtures.csv,100.0,M091
+M100,England,2026-07-11,1,2026-06-17,Croatia,4,2,tsdl_fixtures.csv,25.0,M021
+M100,England,2026-07-11,2,2026-06-23,Ghana,0,0,tsdl_fixtures.csv,49.0,M043
+M100,England,2026-07-11,3,2026-06-27,Panama,2,0,tsdl_fixtures.csv,71.0,M067
+M100,England,2026-07-11,4,2026-07-01,D.R. Congo,2,1,tsdl_fixtures.csv,86.0,M081
+M100,England,2026-07-11,5,2026-07-05,Mexico,3,2,tsdl_fixtures.csv,101.0,M092
+M101,France,2026-07-14,1,2026-06-22,Iraq,3,0,tsdl_fixtures.csv,45.0,M041
+M101,France,2026-07-14,2,2026-06-26,Norway,4,1,tsdl_fixtures.csv,64.0,M058
+M101,France,2026-07-14,3,2026-06-30,Sweden,3,0,tsdl_fixtures.csv,84.0,M077
+M101,France,2026-07-14,4,2026-07-04,Paraguay,1,0,tsdl_fixtures.csv,99.0,M090
+M101,France,2026-07-14,5,2026-07-09,Morocco,2,0,tsdl_fixtures.csv,109.0,M097
+M101,Spain,2026-07-14,1,2026-06-21,Saudi Arabia,4,0,tsdl_fixtures.csv,40.0,M037
+M101,Spain,2026-07-14,2,2026-06-27,Uruguay,1,0,tsdl_fixtures.csv,67.0,M068
+M101,Spain,2026-07-14,3,2026-07-02,Austria,3,0,tsdl_fixtures.csv,89.0,M084
+M101,Spain,2026-07-14,4,2026-07-06,Portugal,1,0,tsdl_fixtures.csv,102.0,M093
+M101,Spain,2026-07-14,5,2026-07-10,Belgium,2,1,tsdl_fixtures.csv,110.0,M098
+M102,England,2026-07-15,1,2026-06-23,Ghana,0,0,tsdl_fixtures.csv,49.0,M043
+M102,England,2026-07-15,2,2026-06-27,Panama,2,0,tsdl_fixtures.csv,71.0,M067
+M102,England,2026-07-15,3,2026-07-01,D.R. Congo,2,1,tsdl_fixtures.csv,86.0,M081
+M102,England,2026-07-15,4,2026-07-05,Mexico,3,2,tsdl_fixtures.csv,101.0,M092
+M102,England,2026-07-15,5,2026-07-11,Norway,2,1,tsdl_fixtures.csv,111.0,M100
+M102,Argentina,2026-07-15,1,2026-06-22,Austria,2,0,tsdl_fixtures.csv,44.0,M040
+M102,Argentina,2026-07-15,2,2026-06-28,Jordan,3,1,tsdl_fixtures.csv,75.0,M072
+M102,Argentina,2026-07-15,3,2026-07-03,Cape Verde,3,2,tsdl_fixtures.csv,93.0,M086
+M102,Argentina,2026-07-15,4,2026-07-07,Egypt,3,2,tsdl_fixtures.csv,104.0,M095
+M102,Argentina,2026-07-15,5,2026-07-11,Switzerland,3,1,tsdl_fixtures.csv,112.0,M099
+M103,France,2026-07-18,1,2026-06-26,Norway,4,1,tsdl_fixtures.csv,64.0,M058
+M103,France,2026-07-18,2,2026-06-30,Sweden,3,0,tsdl_fixtures.csv,84.0,M077
+M103,France,2026-07-18,3,2026-07-04,Paraguay,1,0,tsdl_fixtures.csv,99.0,M090
+M103,France,2026-07-18,4,2026-07-09,Morocco,2,0,tsdl_fixtures.csv,109.0,M097
+M103,France,2026-07-18,5,2026-07-14,Spain,0,2,tsdl_fixtures.csv,116.0,M101
+M103,England,2026-07-18,1,2026-06-27,Panama,2,0,tsdl_fixtures.csv,71.0,M067
+M103,England,2026-07-18,2,2026-07-01,D.R. Congo,2,1,tsdl_fixtures.csv,86.0,M081
+M103,England,2026-07-18,3,2026-07-05,Mexico,3,2,tsdl_fixtures.csv,101.0,M092
+M103,England,2026-07-18,4,2026-07-11,Norway,2,1,tsdl_fixtures.csv,111.0,M100
+M103,England,2026-07-18,5,2026-07-15,Argentina,1,2,tsdl_fixtures.csv,117.0,M102
+M104,Spain,2026-07-19,1,2026-06-27,Uruguay,1,0,tsdl_fixtures.csv,67.0,M068
+M104,Spain,2026-07-19,2,2026-07-02,Austria,3,0,tsdl_fixtures.csv,89.0,M084
+M104,Spain,2026-07-19,3,2026-07-06,Portugal,1,0,tsdl_fixtures.csv,102.0,M093
+M104,Spain,2026-07-19,4,2026-07-10,Belgium,2,1,tsdl_fixtures.csv,110.0,M098
+M104,Spain,2026-07-19,5,2026-07-14,France,2,0,tsdl_fixtures.csv,116.0,M101
+M104,Argentina,2026-07-19,1,2026-06-28,Jordan,3,1,tsdl_fixtures.csv,75.0,M072
+M104,Argentina,2026-07-19,2,2026-07-03,Cape Verde,3,2,tsdl_fixtures.csv,93.0,M086
+M104,Argentina,2026-07-19,3,2026-07-07,Egypt,3,2,tsdl_fixtures.csv,104.0,M095
+M104,Argentina,2026-07-19,4,2026-07-11,Switzerland,3,1,tsdl_fixtures.csv,112.0,M099
+M104,Argentina,2026-07-19,5,2026-07-15,England,2,1,tsdl_fixtures.csv,117.0,M102

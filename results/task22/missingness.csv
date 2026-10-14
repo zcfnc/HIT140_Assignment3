@@ -1,0 +1,9 @@
+feature,missing_cells,imputation_used
+team_pre_gf,0,False
+team_pre_ga,0,False
+team_pre_win_rate,0,False
+team_pre_clean_sheet_rate,0,False
+opponent_pre_gf,0,False
+opponent_pre_ga,0,False
+opponent_pre_win_rate,0,False
+opponent_pre_clean_sheet_rate,0,False

@@ -1,0 +1,9 @@
+feature,coefficient
+team_pre_gf,0.15966919287439238
+team_pre_ga,-0.929506480845141
+team_pre_win_rate,1.4149577776529638
+team_pre_clean_sheet_rate,-1.5560301948456425
+opponent_pre_gf,-0.703823558223587
+opponent_pre_ga,0.5899659092912651
+opponent_pre_win_rate,-1.559976319209688
+opponent_pre_clean_sheet_rate,0.40714876871711475

@@ -1,0 +1,20 @@
+{
+  "retained_features": [
+    "team_pre_gf",
+    "team_pre_ga",
+    "team_pre_win_rate",
+    "team_pre_clean_sheet_rate",
+    "opponent_pre_gf",
+    "opponent_pre_ga",
+    "opponent_pre_win_rate",
+    "opponent_pre_clean_sheet_rate"
+  ],
+  "validation": {
+    "MAE": 0.8764672524226005,
+    "MSE": 1.2907486486263187,
+    "RMSE": 1.1361111955377954,
+    "NRMSE": 0.1623015993625422,
+    "R2": 0.20875439902843662
+  },
+  "note": "Classroom exercise only. Not eligible for final selection because the brief requires eight predictors."
+}

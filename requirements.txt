@@ -1,0 +1,8 @@
+pandas>=2.2,<3
+numpy>=1.26,<3
+scikit-learn>=1.4,<2
+statsmodels>=0.14,<0.15
+matplotlib>=3.8,<4
+requests>=2.31,<3
+# Optional for opening/editing notebooks locally:
+jupyterlab>=4,<5

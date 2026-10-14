@@ -1,0 +1,12 @@
+{
+  "date": "2026-07-18",
+  "stage": "THIRD PLACE",
+  "team_a": "France",
+  "team_b": "England",
+  "goals_a": 4,
+  "goals_b": 6,
+  "source_url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026/articles/france-england-report-highlights-bronze-final",
+  "cross_check_url": "https://fbref.com/en/comps/1/schedule/schedule-Stats",
+  "access_date": "2026-10-03",
+  "retrieval_note": "Manually transcribed from web search indexed FIFA report and FBref schedule. Direct FIFA HTTP retrieval returned 403; no full article snapshot is claimed. Technical statistics not retrieved and left missing."
+}

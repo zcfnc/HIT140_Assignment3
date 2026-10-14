@@ -1,0 +1,31 @@
+{
+  "simple_feature": "a_pre_gf",
+  "feature_meaning": "Mean goals scored in the previous five completed internationals",
+  "simple_intercept": -0.35724016347463705,
+  "simple_coefficient": 0.6667200897507811,
+  "multiple_features": [
+    "a_pre_gf",
+    "a_pre_ga",
+    "a_pre_win_rate",
+    "a_pre_clean_sheet_rate",
+    "b_pre_gf",
+    "b_pre_ga",
+    "b_pre_win_rate",
+    "b_pre_clean_sheet_rate"
+  ],
+  "multiple_intercept": 2.5712292069734377,
+  "multiple_coefficients": [
+    0.23543675768757832,
+    -0.25640406545192906,
+    2.2039527051808925,
+    -1.2719398879854564,
+    -0.18312990338945778,
+    -0.26190939790180934,
+    -2.9689003602347928,
+    -1.6639208350028405
+  ],
+  "training_rows": 56,
+  "test_rows": 22,
+  "nrmse_denominator": 10.0,
+  "note": "Same training and test rows; raw predictors and response; OLS with intercept. Supplementary model comparison, not different algorithms. The required eight-predictor primary analysis remains separate. The later evaluation period is retrospective."
+}

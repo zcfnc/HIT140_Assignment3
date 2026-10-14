@@ -1,0 +1,36 @@
+{
+  "task": "task22",
+  "selected_model": "log1p_ols",
+  "selection": "Lowest validation RMSE; raw OLS wins numerical ties.",
+  "predictor_count": 8,
+  "rows": {
+    "train": 112,
+    "validation": 52,
+    "test": 44
+  },
+  "intercept": 2.6192468422091264,
+  "nrmse_denominator": 7.0,
+  "training_adjusted_r2": 0.1342357260372743,
+  "validation_recommendation": "log1p_ols",
+  "evaluation_status": "Retrospective revised comparison of a later tournament period.",
+  "test": [
+    {
+      "model": "log1p_ols",
+      "MAE": 0.9891740427475031,
+      "MSE": 1.7280095780990967,
+      "RMSE": 1.3145377811607761,
+      "NRMSE": 0.1877911115943966,
+      "R2": 0.012274418895822037
+    },
+    {
+      "model": "training_mean_baseline",
+      "MAE": 1.0665584415584417,
+      "MSE": 1.7511305658627085,
+      "RMSE": 1.3233029002698924,
+      "NRMSE": 0.1890432714671275,
+      "R2": -0.0009414749070573158
+    }
+  ],
+  "negative_test_predictions": 1,
+  "cold_start_rows": 0
+}

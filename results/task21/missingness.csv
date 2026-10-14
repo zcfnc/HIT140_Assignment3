@@ -1,0 +1,9 @@
+feature,missing_cells,imputation_used
+a_pre_gf,0,False
+a_pre_ga,0,False
+a_pre_win_rate,0,False
+a_pre_clean_sheet_rate,0,False
+b_pre_gf,0,False
+b_pre_ga,0,False
+b_pre_win_rate,0,False
+b_pre_clean_sheet_rate,0,False

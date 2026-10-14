@@ -1,0 +1,26 @@
+[
+  {
+    "file": "data/raw/international_results.csv",
+    "url": "https://raw.githubusercontent.com/martj42/international_results/d5bd6de012c87e2f325de602ae77fe2f9ab61ef3/results.csv",
+    "repository": "https://github.com/martj42/international_results",
+    "commit": "d5bd6de012c87e2f325de602ae77fe2f9ab61ef3",
+    "downloaded_utc": "2026-10-11T08:14:59.678719+00:00",
+    "sha256": "5dcefd1aa0483979ea8378cef5be448d2005609d39945ea162378561a30a6767"
+  },
+  {
+    "file": "data/raw/international_README.md",
+    "url": "https://raw.githubusercontent.com/martj42/international_results/d5bd6de012c87e2f325de602ae77fe2f9ab61ef3/README.md",
+    "repository": "https://github.com/martj42/international_results",
+    "commit": "d5bd6de012c87e2f325de602ae77fe2f9ab61ef3",
+    "downloaded_utc": "2026-10-11T08:15:04.094468+00:00",
+    "sha256": "0d50b5f6fe2b658eba52a4477e4e48af6ca61e89e2c5265b153e3c12d7305b76"
+  },
+  {
+    "file": "data/raw/international_LICENSE",
+    "url": "https://raw.githubusercontent.com/martj42/international_results/d5bd6de012c87e2f325de602ae77fe2f9ab61ef3/LICENSE",
+    "repository": "https://github.com/martj42/international_results",
+    "commit": "d5bd6de012c87e2f325de602ae77fe2f9ab61ef3",
+    "downloaded_utc": "2026-10-11T08:15:08.927043+00:00",
+    "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499"
+  }
+]

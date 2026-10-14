@@ -1,0 +1,2 @@
+Predicted goal_difference = 2.791795 +1.162451 * a_pre_gf -1.340110 * a_pre_ga +1.724601 * a_pre_win_rate -2.117131 * a_pre_clean_sheet_rate -0.767647 * b_pre_gf +0.137228 * b_pre_ga -3.533180 * b_pre_win_rate -1.370467 * b_pre_clean_sheet_rate
+Features in this equation are log(1 + raw historical feature).

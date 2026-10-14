@@ -1,0 +1,16 @@
+[
+  {
+    "file": "data/raw/tsdl_fixtures.csv",
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSWZFlaUHTBK09v4I1Kv7ZQ0ophhlpsCr7VPFW5dkbdG0Zpl8mRkXrTZezZMr1Ia9V9cpwmq7BKPQ03/pub?gid=995472238&single=true&output=csv",
+    "source_page": "https://www.thestatsdontlie.com/football/world-cup-2026/",
+    "downloaded_utc": "2026-10-03T06:47:47.171381+00:00",
+    "sha256": "5b3420416acaf1cd65b8beec80eef4f06e99ead9c89135a000ed38be8609cb1b"
+  },
+  {
+    "file": "data/raw/tsdl_tournament_summary.csv",
+    "url": "https://docs.google.com/spreadsheets/d/e/2PACX-1vSWZFlaUHTBK09v4I1Kv7ZQ0ophhlpsCr7VPFW5dkbdG0Zpl8mRkXrTZezZMr1Ia9V9cpwmq7BKPQ03/pub?gid=0&single=true&output=csv",
+    "source_page": "https://www.thestatsdontlie.com/football/world-cup-2026/",
+    "downloaded_utc": "2026-10-03T06:47:50.876725+00:00",
+    "sha256": "7a2c3a719eac9d08d66974b7d3e70f00d799b1a0f6595e048c44f594eb19b169"
+  }
+]

@@ -1,0 +1,2 @@
+Predicted goals = 2.619247 +0.159669 * team_pre_gf -0.929506 * team_pre_ga +1.414958 * team_pre_win_rate -1.556030 * team_pre_clean_sheet_rate -0.703824 * opponent_pre_gf +0.589966 * opponent_pre_ga -1.559976 * opponent_pre_win_rate +0.407149 * opponent_pre_clean_sheet_rate
+Features in this equation are log(1 + raw historical feature).
